@@ -1,0 +1,768 @@
+timestamp,event_type,zone_name,zone_id,track_id,duration,confidence,snapshot_path,message
+2026-09-21 14:20:12,INTRUSION,Restricted Perimeter,zone_restricted,2,0.0,0.395,database/snapshots\snap_1789980612_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 14:20:16,INTRUSION,Restricted Perimeter,zone_restricted,4,0.0,0.825,database/snapshots\snap_1789980616_id4_intrusion.jpg,INTRUSION DETECTED: ID #4 entered Restricted Perimeter
+2026-09-21 14:20:17,LOITERING,VIP Lobby,zone_lobby,3,4.1,0.697,database/snapshots\snap_1789980617_id3_loitering.jpg,LOITERING ALERT: ID #3 stationary for 4.1s in VIP Lobby
+2026-09-21 14:20:18,INTRUSION,Restricted Perimeter,zone_restricted,2,6.1,0.768,database/snapshots\snap_1789980618_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 14:20:22,LOITERING,VIP Lobby,zone_lobby,5,4.1,0.802,database/snapshots\snap_1789980622_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 4.1s in VIP Lobby
+2026-09-21 14:20:22,INTRUSION,Restricted Perimeter,zone_restricted,4,6.0,0.799,database/snapshots\snap_1789980622_id4_intrusion.jpg,INTRUSION DETECTED: ID #4 entered Restricted Perimeter
+2026-09-21 14:20:28,INTRUSION,Restricted Perimeter,zone_restricted,4,12.1,0.773,database/snapshots\snap_1789980628_id4_intrusion.jpg,INTRUSION DETECTED: ID #4 entered Restricted Perimeter
+2026-09-21 14:20:30,LOITERING,VIP Lobby,zone_lobby,5,12.2,0.849,database/snapshots\snap_1789980630_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 12.2s in VIP Lobby
+2026-09-21 15:12:48,INTRUSION,Restricted Perimeter,zone_restricted,2,0.0,0.585,X:\security\database/snapshots\snap_1790017968_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:12:48,INTRUSION,Restricted Perimeter,zone_restricted,11,0.0,0.239,X:\security\database/snapshots\snap_1790017968_id11_intrusion.jpg,INTRUSION DETECTED: ID #11 entered Restricted Perimeter
+2026-09-21 15:12:49,LOITERING,VIP Lobby,zone_lobby,1,1.0,0.814,X:\security\database/snapshots\snap_1790017969_id1_loitering.jpg,LOITERING ALERT: ID #1 stationary for 1.0s in VIP Lobby
+2026-09-21 15:12:54,INTRUSION,Restricted Perimeter,zone_restricted,2,6.0,0.592,X:\security\database/snapshots\snap_1790017974_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:12:54,INTRUSION,Restricted Perimeter,zone_restricted,11,6.0,0.25,X:\security\database/snapshots\snap_1790017974_id11_intrusion.jpg,INTRUSION DETECTED: ID #11 entered Restricted Perimeter
+2026-09-21 15:12:57,LOITERING,VIP Lobby,zone_lobby,1,9.1,0.788,X:\security\database/snapshots\snap_1790017977_id1_loitering.jpg,LOITERING ALERT: ID #1 stationary for 9.1s in VIP Lobby
+2026-09-21 15:13:01,INTRUSION,Restricted Perimeter,zone_restricted,2,12.2,0.698,X:\security\database/snapshots\snap_1790017981_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:13:01,INTRUSION,Restricted Perimeter,zone_restricted,11,12.2,0.246,X:\security\database/snapshots\snap_1790017981_id11_intrusion.jpg,INTRUSION DETECTED: ID #11 entered Restricted Perimeter
+2026-09-21 15:13:02,LOITERING,VIP Lobby,zone_lobby,16,1.2,0.581,X:\security\database/snapshots\snap_1790017982_id16_loitering.jpg,LOITERING ALERT: ID #16 stationary for 1.2s in VIP Lobby
+2026-09-21 15:13:04,INTRUSION,Restricted Perimeter,zone_restricted,23,0.0,0.23,X:\security\database/snapshots\snap_1790017984_id23_intrusion.jpg,INTRUSION DETECTED: ID #23 entered Restricted Perimeter
+2026-09-21 15:13:06,LOITERING,VIP Lobby,zone_lobby,1,17.3,0.903,X:\security\database/snapshots\snap_1790017986_id1_loitering.jpg,LOITERING ALERT: ID #1 stationary for 17.3s in VIP Lobby
+2026-09-21 15:13:07,INTRUSION,Restricted Perimeter,zone_restricted,2,18.5,0.559,X:\security\database/snapshots\snap_1790017987_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:13:09,INTRUSION,Restricted Perimeter,zone_restricted,28,0.0,0.318,X:\security\database/snapshots\snap_1790017989_id28_intrusion.jpg,INTRUSION DETECTED: ID #28 entered Restricted Perimeter
+2026-09-21 15:13:09,INTRUSION,Restricted Perimeter,zone_restricted,25,0.0,0.684,X:\security\database/snapshots\snap_1790017989_id25_intrusion.jpg,INTRUSION DETECTED: ID #25 entered Restricted Perimeter
+2026-09-21 15:13:10,LOITERING,VIP Lobby,zone_lobby,16,2.2,0.442,X:\security\database/snapshots\snap_1790017990_id16_loitering.jpg,LOITERING ALERT: ID #16 stationary for 2.2s in VIP Lobby
+2026-09-21 15:13:10,INTRUSION,Restricted Perimeter,zone_restricted,18,0.0,0.373,X:\security\database/snapshots\snap_1790017990_id18_intrusion.jpg,INTRUSION DETECTED: ID #18 entered Restricted Perimeter
+2026-09-21 15:13:10,INTRUSION,Restricted Perimeter,zone_restricted,23,6.1,0.202,X:\security\database/snapshots\snap_1790017990_id23_intrusion.jpg,INTRUSION DETECTED: ID #23 entered Restricted Perimeter
+2026-09-21 15:13:11,LOITERING,VIP Lobby,zone_lobby,27,1.0,0.223,X:\security\database/snapshots\snap_1790017991_id27_loitering.jpg,LOITERING ALERT: ID #27 stationary for 1.0s in VIP Lobby
+2026-09-21 15:13:11,LOITERING,VIP Lobby,zone_lobby,7,1.1,0.213,X:\security\database/snapshots\snap_1790017991_id7_loitering.jpg,LOITERING ALERT: ID #7 stationary for 1.1s in VIP Lobby
+2026-09-21 15:13:13,INTRUSION,Restricted Perimeter,zone_restricted,2,24.6,0.329,X:\security\database/snapshots\snap_1790017993_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:13:14,LOITERING,VIP Lobby,zone_lobby,1,25.3,0.776,X:\security\database/snapshots\snap_1790017994_id1_loitering.jpg,LOITERING ALERT: ID #1 stationary for 25.3s in VIP Lobby
+2026-09-21 15:13:14,INTRUSION,Restricted Perimeter,zone_restricted,6,0.0,0.697,X:\security\database/snapshots\snap_1790017994_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:13:15,INTRUSION,Restricted Perimeter,zone_restricted,28,6.3,0.318,X:\security\database/snapshots\snap_1790017995_id28_intrusion.jpg,INTRUSION DETECTED: ID #28 entered Restricted Perimeter
+2026-09-21 15:13:15,LOITERING,VIP Lobby,zone_lobby,36,1.4,0.247,X:\security\database/snapshots\snap_1790017995_id36_loitering.jpg,LOITERING ALERT: ID #36 stationary for 1.4s in VIP Lobby
+2026-09-21 15:13:15,LOITERING,VIP Lobby,zone_lobby,37,1.3,0.784,X:\security\database/snapshots\snap_1790017995_id37_loitering.jpg,LOITERING ALERT: ID #37 stationary for 1.3s in VIP Lobby
+2026-09-21 15:13:16,INTRUSION,Restricted Perimeter,zone_restricted,25,3.2,0.693,X:\security\database/snapshots\snap_1790017996_id25_intrusion.jpg,INTRUSION DETECTED: ID #25 entered Restricted Perimeter
+2026-09-21 15:13:16,INTRUSION,Restricted Perimeter,zone_restricted,18,6.2,0.23,X:\security\database/snapshots\snap_1790017996_id18_intrusion.jpg,INTRUSION DETECTED: ID #18 entered Restricted Perimeter
+2026-09-21 15:13:16,INTRUSION,Restricted Perimeter,zone_restricted,23,12.3,0.219,X:\security\database/snapshots\snap_1790017996_id23_intrusion.jpg,INTRUSION DETECTED: ID #23 entered Restricted Perimeter
+2026-09-21 15:13:18,LOITERING,VIP Lobby,zone_lobby,16,10.7,0.288,X:\security\database/snapshots\snap_1790017998_id16_loitering.jpg,LOITERING ALERT: ID #16 stationary for 10.7s in VIP Lobby
+2026-09-21 15:13:19,INTRUSION,Restricted Perimeter,zone_restricted,2,30.6,0.64,X:\security\database/snapshots\snap_1790017999_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:13:19,LOITERING,VIP Lobby,zone_lobby,27,9.2,0.263,X:\security\database/snapshots\snap_1790017999_id27_loitering.jpg,LOITERING ALERT: ID #27 stationary for 9.2s in VIP Lobby
+2026-09-21 15:13:19,LOITERING,VIP Lobby,zone_lobby,7,9.2,0.45,X:\security\database/snapshots\snap_1790017999_id7_loitering.jpg,LOITERING ALERT: ID #7 stationary for 9.2s in VIP Lobby
+2026-09-21 15:13:21,INTRUSION,Restricted Perimeter,zone_restricted,6,6.2,0.766,X:\security\database/snapshots\snap_1790018001_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:13:22,LOITERING,VIP Lobby,zone_lobby,1,33.4,0.833,X:\security\database/snapshots\snap_1790018002_id1_loitering.jpg,LOITERING ALERT: ID #1 stationary for 33.4s in VIP Lobby
+2026-09-21 15:13:22,INTRUSION,Restricted Perimeter,zone_restricted,25,1.6,0.209,X:\security\database/snapshots\snap_1790018002_id25_intrusion.jpg,INTRUSION DETECTED: ID #25 entered Restricted Perimeter
+2026-09-21 15:13:22,LOITERING,VIP Lobby,zone_lobby,40,1.2,0.245,X:\security\database/snapshots\snap_1790018002_id40_loitering.jpg,LOITERING ALERT: ID #40 stationary for 1.2s in VIP Lobby
+2026-09-21 15:13:22,LOITERING,VIP Lobby,zone_lobby,32,1.0,0.857,X:\security\database/snapshots\snap_1790018002_id32_loitering.jpg,LOITERING ALERT: ID #32 stationary for 1.0s in VIP Lobby
+2026-09-21 15:13:22,INTRUSION,Restricted Perimeter,zone_restricted,18,12.4,0.23,X:\security\database/snapshots\snap_1790018002_id18_intrusion.jpg,INTRUSION DETECTED: ID #18 entered Restricted Perimeter
+2026-09-21 15:13:22,INTRUSION,Restricted Perimeter,zone_restricted,23,18.5,0.206,X:\security\database/snapshots\snap_1790018002_id23_intrusion.jpg,INTRUSION DETECTED: ID #23 entered Restricted Perimeter
+2026-09-21 15:13:23,LOITERING,VIP Lobby,zone_lobby,36,9.4,0.25,X:\security\database/snapshots\snap_1790018003_id36_loitering.jpg,LOITERING ALERT: ID #36 stationary for 9.4s in VIP Lobby
+2026-09-21 15:13:23,LOITERING,VIP Lobby,zone_lobby,37,9.4,0.609,X:\security\database/snapshots\snap_1790018003_id37_loitering.jpg,LOITERING ALERT: ID #37 stationary for 9.4s in VIP Lobby
+2026-09-21 15:13:25,INTRUSION,Restricted Perimeter,zone_restricted,2,36.7,0.563,X:\security\database/snapshots\snap_1790018005_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:13:26,INTRUSION,Restricted Perimeter,zone_restricted,39,0.0,0.205,X:\security\database/snapshots\snap_1790018006_id39_intrusion.jpg,INTRUSION DETECTED: ID #39 entered Restricted Perimeter
+2026-09-21 15:13:26,LOITERING,VIP Lobby,zone_lobby,44,1.1,0.206,X:\security\database/snapshots\snap_1790018006_id44_loitering.jpg,LOITERING ALERT: ID #44 stationary for 1.1s in VIP Lobby
+2026-09-21 15:13:27,INTRUSION,Restricted Perimeter,zone_restricted,6,12.4,0.397,X:\security\database/snapshots\snap_1790018007_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:13:28,INTRUSION,Restricted Perimeter,zone_restricted,23,24.5,0.299,X:\security\database/snapshots\snap_1790018008_id23_intrusion.jpg,INTRUSION DETECTED: ID #23 entered Restricted Perimeter
+2026-09-21 15:13:30,LOITERING,VIP Lobby,zone_lobby,1,41.6,0.861,X:\security\database/snapshots\snap_1790018010_id1_loitering.jpg,LOITERING ALERT: ID #1 stationary for 41.6s in VIP Lobby
+2026-09-21 15:13:30,LOITERING,VIP Lobby,zone_lobby,32,9.0,0.777,X:\security\database/snapshots\snap_1790018010_id32_loitering.jpg,LOITERING ALERT: ID #32 stationary for 9.0s in VIP Lobby
+2026-09-21 15:13:31,INTRUSION,Restricted Perimeter,zone_restricted,2,42.7,0.659,X:\security\database/snapshots\snap_1790018011_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:13:33,INTRUSION,Restricted Perimeter,zone_restricted,6,18.5,0.52,X:\security\database/snapshots\snap_1790018013_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:13:34,INTRUSION,Restricted Perimeter,zone_restricted,23,30.6,0.249,X:\security\database/snapshots\snap_1790018014_id23_intrusion.jpg,INTRUSION DETECTED: ID #23 entered Restricted Perimeter
+2026-09-21 15:13:35,LOITERING,VIP Lobby,zone_lobby,44,9.2,0.336,X:\security\database/snapshots\snap_1790018015_id44_loitering.jpg,LOITERING ALERT: ID #44 stationary for 9.2s in VIP Lobby
+2026-09-21 15:13:37,INTRUSION,Restricted Perimeter,zone_restricted,2,48.8,0.496,X:\security\database/snapshots\snap_1790018017_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:13:38,LOITERING,VIP Lobby,zone_lobby,1,49.7,0.736,X:\security\database/snapshots\snap_1790018018_id1_loitering.jpg,LOITERING ALERT: ID #1 stationary for 49.7s in VIP Lobby
+2026-09-21 15:13:38,LOITERING,VIP Lobby,zone_lobby,32,17.1,0.774,X:\security\database/snapshots\snap_1790018018_id32_loitering.jpg,LOITERING ALERT: ID #32 stationary for 17.1s in VIP Lobby
+2026-09-21 15:13:39,INTRUSION,Restricted Perimeter,zone_restricted,6,3.9,0.611,X:\security\database/snapshots\snap_1790018019_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:13:39,LOITERING,VIP Lobby,zone_lobby,50,1.1,0.554,X:\security\database/snapshots\snap_1790018019_id50_loitering.jpg,LOITERING ALERT: ID #50 stationary for 1.1s in VIP Lobby
+2026-09-21 15:13:41,INTRUSION,Restricted Perimeter,zone_restricted,23,36.8,0.235,X:\security\database/snapshots\snap_1790018021_id23_intrusion.jpg,INTRUSION DETECTED: ID #23 entered Restricted Perimeter
+2026-09-21 15:13:43,INTRUSION,Restricted Perimeter,zone_restricted,2,55.0,0.566,X:\security\database/snapshots\snap_1790018023_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:13:45,INTRUSION,Restricted Perimeter,zone_restricted,6,10.2,0.481,X:\security\database/snapshots\snap_1790018025_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:13:45,LOITERING,VIP Lobby,zone_lobby,57,1.3,0.878,X:\security\database/snapshots\snap_1790018025_id57_loitering.jpg,LOITERING ALERT: ID #57 stationary for 1.3s in VIP Lobby
+2026-09-21 15:13:46,LOITERING,VIP Lobby,zone_lobby,1,57.8,0.543,X:\security\database/snapshots\snap_1790018026_id1_loitering.jpg,LOITERING ALERT: ID #1 stationary for 57.8s in VIP Lobby
+2026-09-21 15:13:46,LOITERING,VIP Lobby,zone_lobby,32,25.2,0.507,X:\security\database/snapshots\snap_1790018026_id32_loitering.jpg,LOITERING ALERT: ID #32 stationary for 25.2s in VIP Lobby
+2026-09-21 15:13:47,INTRUSION,Restricted Perimeter,zone_restricted,23,43.5,0.472,X:\security\database/snapshots\snap_1790018027_id23_intrusion.jpg,INTRUSION DETECTED: ID #23 entered Restricted Perimeter
+2026-09-21 15:13:47,LOITERING,VIP Lobby,zone_lobby,50,7.4,0.274,X:\security\database/snapshots\snap_1790018027_id50_loitering.jpg,LOITERING ALERT: ID #50 stationary for 7.4s in VIP Lobby
+2026-09-21 15:13:49,INTRUSION,Restricted Perimeter,zone_restricted,2,61.1,0.58,X:\security\database/snapshots\snap_1790018029_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:13:54,INTRUSION,Restricted Perimeter,zone_restricted,23,50.1,0.472,X:\security\database/snapshots\snap_1790018034_id23_intrusion.jpg,INTRUSION DETECTED: ID #23 entered Restricted Perimeter
+2026-09-21 15:13:54,LOITERING,VIP Lobby,zone_lobby,32,33.3,0.507,X:\security\database/snapshots\snap_1790018034_id32_loitering.jpg,LOITERING ALERT: ID #32 stationary for 33.3s in VIP Lobby
+2026-09-21 15:13:56,INTRUSION,Restricted Perimeter,zone_restricted,2,67.2,0.58,X:\security\database/snapshots\snap_1790018036_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:13:59,LOITERING,VIP Lobby,zone_lobby,57,14.7,0.81,X:\security\database/snapshots\snap_1790018039_id57_loitering.jpg,LOITERING ALERT: ID #57 stationary for 14.7s in VIP Lobby
+2026-09-21 15:14:02,INTRUSION,Restricted Perimeter,zone_restricted,2,73.3,0.585,X:\security\database/snapshots\snap_1790018042_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:14:07,LOITERING,VIP Lobby,zone_lobby,57,22.9,0.81,X:\security\database/snapshots\snap_1790018047_id57_loitering.jpg,LOITERING ALERT: ID #57 stationary for 22.9s in VIP Lobby
+2026-09-21 15:14:08,INTRUSION,Restricted Perimeter,zone_restricted,2,79.4,0.592,X:\security\database/snapshots\snap_1790018048_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:14:14,INTRUSION,Restricted Perimeter,zone_restricted,2,85.6,0.778,X:\security\database/snapshots\snap_1790018054_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:14:15,LOITERING,VIP Lobby,zone_lobby,57,31.0,0.799,X:\security\database/snapshots\snap_1790018055_id57_loitering.jpg,LOITERING ALERT: ID #57 stationary for 31.0s in VIP Lobby
+2026-09-21 15:14:20,INTRUSION,Restricted Perimeter,zone_restricted,2,91.8,0.479,X:\security\database/snapshots\snap_1790018060_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:14:23,LOITERING,VIP Lobby,zone_lobby,57,39.1,0.898,X:\security\database/snapshots\snap_1790018063_id57_loitering.jpg,LOITERING ALERT: ID #57 stationary for 39.1s in VIP Lobby
+2026-09-21 15:14:24,INTRUSION,Restricted Perimeter,zone_restricted,72,0.0,0.559,X:\security\database/snapshots\snap_1790018064_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 15:14:26,INTRUSION,Restricted Perimeter,zone_restricted,2,97.9,0.39,X:\security\database/snapshots\snap_1790018066_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:14:31,INTRUSION,Restricted Perimeter,zone_restricted,72,6.3,0.517,X:\security\database/snapshots\snap_1790018071_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 15:14:31,LOITERING,VIP Lobby,zone_lobby,56,14.6,0.456,X:\security\database/snapshots\snap_1790018071_id56_loitering.jpg,LOITERING ALERT: ID #56 stationary for 14.6s in VIP Lobby
+2026-09-21 15:14:31,LOITERING,VIP Lobby,zone_lobby,57,47.4,0.803,X:\security\database/snapshots\snap_1790018071_id57_loitering.jpg,LOITERING ALERT: ID #57 stationary for 47.4s in VIP Lobby
+2026-09-21 15:14:32,INTRUSION,Restricted Perimeter,zone_restricted,74,0.0,0.529,X:\security\database/snapshots\snap_1790018072_id74_intrusion.jpg,INTRUSION DETECTED: ID #74 entered Restricted Perimeter
+2026-09-21 15:14:33,INTRUSION,Restricted Perimeter,zone_restricted,2,104.2,0.384,X:\security\database/snapshots\snap_1790018073_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:14:35,INTRUSION,Restricted Perimeter,zone_restricted,6,0.0,0.797,X:\security\database/snapshots\snap_1790018075_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:14:37,INTRUSION,Restricted Perimeter,zone_restricted,72,12.3,0.644,X:\security\database/snapshots\snap_1790018077_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 15:14:38,INTRUSION,Restricted Perimeter,zone_restricted,74,6.3,0.421,X:\security\database/snapshots\snap_1790018078_id74_intrusion.jpg,INTRUSION DETECTED: ID #74 entered Restricted Perimeter
+2026-09-21 15:14:39,INTRUSION,Restricted Perimeter,zone_restricted,2,110.2,0.384,X:\security\database/snapshots\snap_1790018079_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:14:39,LOITERING,VIP Lobby,zone_lobby,56,22.6,0.678,X:\security\database/snapshots\snap_1790018079_id56_loitering.jpg,LOITERING ALERT: ID #56 stationary for 22.6s in VIP Lobby
+2026-09-21 15:14:40,LOITERING,VIP Lobby,zone_lobby,57,55.6,0.824,X:\security\database/snapshots\snap_1790018080_id57_loitering.jpg,LOITERING ALERT: ID #57 stationary for 55.6s in VIP Lobby
+2026-09-21 15:14:41,INTRUSION,Restricted Perimeter,zone_restricted,6,0.8,0.77,X:\security\database/snapshots\snap_1790018081_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:14:43,INTRUSION,Restricted Perimeter,zone_restricted,72,18.4,0.412,X:\security\database/snapshots\snap_1790018083_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 15:14:45,INTRUSION,Restricted Perimeter,zone_restricted,74,12.8,0.421,X:\security\database/snapshots\snap_1790018085_id74_intrusion.jpg,INTRUSION DETECTED: ID #74 entered Restricted Perimeter
+2026-09-21 15:14:47,INTRUSION,Restricted Perimeter,zone_restricted,6,2.2,0.416,X:\security\database/snapshots\snap_1790018087_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:14:48,LOITERING,VIP Lobby,zone_lobby,57,63.8,0.893,X:\security\database/snapshots\snap_1790018088_id57_loitering.jpg,LOITERING ALERT: ID #57 stationary for 63.8s in VIP Lobby
+2026-09-21 15:14:49,INTRUSION,Restricted Perimeter,zone_restricted,72,24.6,0.574,X:\security\database/snapshots\snap_1790018089_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 15:14:55,INTRUSION,Restricted Perimeter,zone_restricted,6,0.0,0.593,X:\security\database/snapshots\snap_1790018095_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:14:55,INTRUSION,Restricted Perimeter,zone_restricted,72,30.6,0.644,X:\security\database/snapshots\snap_1790018095_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 15:14:55,LOITERING,VIP Lobby,zone_lobby,80,14.6,0.801,X:\security\database/snapshots\snap_1790018095_id80_loitering.jpg,LOITERING ALERT: ID #80 stationary for 14.6s in VIP Lobby
+2026-09-21 15:14:56,LOITERING,VIP Lobby,zone_lobby,57,72.0,0.77,X:\security\database/snapshots\snap_1790018096_id57_loitering.jpg,LOITERING ALERT: ID #57 stationary for 72.0s in VIP Lobby
+2026-09-21 15:15:01,INTRUSION,Restricted Perimeter,zone_restricted,6,6.0,0.587,X:\security\database/snapshots\snap_1790018101_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:15:01,INTRUSION,Restricted Perimeter,zone_restricted,72,36.7,0.535,X:\security\database/snapshots\snap_1790018101_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 15:15:01,INTRUSION,Restricted Perimeter,zone_restricted,92,0.0,0.361,X:\security\database/snapshots\snap_1790018101_id92_intrusion.jpg,INTRUSION DETECTED: ID #92 entered Restricted Perimeter
+2026-09-21 15:15:04,LOITERING,VIP Lobby,zone_lobby,80,22.8,0.726,X:\security\database/snapshots\snap_1790018104_id80_loitering.jpg,LOITERING ALERT: ID #80 stationary for 22.8s in VIP Lobby
+2026-09-21 15:15:04,LOITERING,VIP Lobby,zone_lobby,57,80.1,0.832,X:\security\database/snapshots\snap_1790018104_id57_loitering.jpg,LOITERING ALERT: ID #57 stationary for 80.1s in VIP Lobby
+2026-09-21 15:15:07,INTRUSION,Restricted Perimeter,zone_restricted,6,12.3,0.601,X:\security\database/snapshots\snap_1790018107_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:15:07,INTRUSION,Restricted Perimeter,zone_restricted,72,42.9,0.433,X:\security\database/snapshots\snap_1790018107_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 15:15:07,INTRUSION,Restricted Perimeter,zone_restricted,92,6.2,0.503,X:\security\database/snapshots\snap_1790018107_id92_intrusion.jpg,INTRUSION DETECTED: ID #92 entered Restricted Perimeter
+2026-09-21 15:15:12,LOITERING,VIP Lobby,zone_lobby,80,31.0,0.362,X:\security\database/snapshots\snap_1790018112_id80_loitering.jpg,LOITERING ALERT: ID #80 stationary for 31.0s in VIP Lobby
+2026-09-21 15:15:12,LOITERING,VIP Lobby,zone_lobby,57,88.2,0.372,X:\security\database/snapshots\snap_1790018112_id57_loitering.jpg,LOITERING ALERT: ID #57 stationary for 88.2s in VIP Lobby
+2026-09-21 15:15:13,INTRUSION,Restricted Perimeter,zone_restricted,6,18.4,0.408,X:\security\database/snapshots\snap_1790018113_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:15:13,INTRUSION,Restricted Perimeter,zone_restricted,72,49.0,0.358,X:\security\database/snapshots\snap_1790018113_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 15:15:14,LOITERING,VIP Lobby,zone_lobby,64,14.7,0.654,X:\security\database/snapshots\snap_1790018114_id64_loitering.jpg,LOITERING ALERT: ID #64 stationary for 14.7s in VIP Lobby
+2026-09-21 15:15:16,INTRUSION,Restricted Perimeter,zone_restricted,106,0.0,0.62,X:\security\database/snapshots\snap_1790018116_id106_intrusion.jpg,INTRUSION DETECTED: ID #106 entered Restricted Perimeter
+2026-09-21 15:15:17,INTRUSION,Restricted Perimeter,zone_restricted,107,0.0,0.74,X:\security\database/snapshots\snap_1790018117_id107_intrusion.jpg,INTRUSION DETECTED: ID #107 entered Restricted Perimeter
+2026-09-21 15:15:19,INTRUSION,Restricted Perimeter,zone_restricted,6,1.0,0.402,X:\security\database/snapshots\snap_1790018119_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:15:19,INTRUSION,Restricted Perimeter,zone_restricted,72,55.0,0.628,X:\security\database/snapshots\snap_1790018119_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 15:15:23,INTRUSION,Restricted Perimeter,zone_restricted,109,0.0,0.743,X:\security\database/snapshots\snap_1790018123_id109_intrusion.jpg,INTRUSION DETECTED: ID #109 entered Restricted Perimeter
+2026-09-21 15:15:25,INTRUSION,Restricted Perimeter,zone_restricted,6,7.1,0.435,X:\security\database/snapshots\snap_1790018125_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:15:25,INTRUSION,Restricted Perimeter,zone_restricted,72,61.1,0.616,X:\security\database/snapshots\snap_1790018125_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 15:15:29,LOITERING,VIP Lobby,zone_lobby,69,14.6,0.746,X:\security\database/snapshots\snap_1790018129_id69_loitering.jpg,LOITERING ALERT: ID #69 stationary for 14.6s in VIP Lobby
+2026-09-21 15:15:29,INTRUSION,Restricted Perimeter,zone_restricted,109,6.0,0.681,X:\security\database/snapshots\snap_1790018129_id109_intrusion.jpg,INTRUSION DETECTED: ID #109 entered Restricted Perimeter
+2026-09-21 15:15:32,INTRUSION,Restricted Perimeter,zone_restricted,6,13.4,0.487,X:\security\database/snapshots\snap_1790018132_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:15:32,LOITERING,VIP Lobby,zone_lobby,98,15.2,0.598,X:\security\database/snapshots\snap_1790018132_id98_loitering.jpg,LOITERING ALERT: ID #98 stationary for 15.2s in VIP Lobby
+2026-09-21 15:15:36,INTRUSION,Restricted Perimeter,zone_restricted,109,1.4,0.625,X:\security\database/snapshots\snap_1790018136_id109_intrusion.jpg,INTRUSION DETECTED: ID #109 entered Restricted Perimeter
+2026-09-21 15:15:37,LOITERING,VIP Lobby,zone_lobby,69,22.6,0.686,X:\security\database/snapshots\snap_1790018137_id69_loitering.jpg,LOITERING ALERT: ID #69 stationary for 22.6s in VIP Lobby
+2026-09-21 15:15:38,INTRUSION,Restricted Perimeter,zone_restricted,6,19.6,0.493,X:\security\database/snapshots\snap_1790018138_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:15:38,INTRUSION,Restricted Perimeter,zone_restricted,107,0.0,0.882,X:\security\database/snapshots\snap_1790018138_id107_intrusion.jpg,INTRUSION DETECTED: ID #107 entered Restricted Perimeter
+2026-09-21 15:15:42,INTRUSION,Restricted Perimeter,zone_restricted,109,7.6,0.46,X:\security\database/snapshots\snap_1790018142_id109_intrusion.jpg,INTRUSION DETECTED: ID #109 entered Restricted Perimeter
+2026-09-21 15:15:44,INTRUSION,Restricted Perimeter,zone_restricted,6,1.2,0.776,X:\security\database/snapshots\snap_1790018144_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 15:15:44,INTRUSION,Restricted Perimeter,zone_restricted,107,6.1,0.811,X:\security\database/snapshots\snap_1790018144_id107_intrusion.jpg,INTRUSION DETECTED: ID #107 entered Restricted Perimeter
+2026-09-21 15:15:45,LOITERING,VIP Lobby,zone_lobby,69,30.8,0.509,X:\security\database/snapshots\snap_1790018145_id69_loitering.jpg,LOITERING ALERT: ID #69 stationary for 30.8s in VIP Lobby
+2026-09-21 15:16:15,INTRUSION,Restricted Perimeter,zone_restricted,128,0.0,0.443,X:\security\database/snapshots\snap_1790018175_id128_intrusion.jpg,INTRUSION DETECTED: ID #128 entered Restricted Perimeter
+2026-09-21 15:16:15,INTRUSION,Restricted Perimeter,zone_restricted,129,0.0,0.366,X:\security\database/snapshots\snap_1790018175_id129_intrusion.jpg,INTRUSION DETECTED: ID #129 entered Restricted Perimeter
+2026-09-21 15:16:15,INTRUSION,Restricted Perimeter,zone_restricted,130,0.0,0.422,X:\security\database/snapshots\snap_1790018175_id130_intrusion.jpg,INTRUSION DETECTED: ID #130 entered Restricted Perimeter
+2026-09-21 15:16:15,INTRUSION,Restricted Perimeter,zone_restricted,126,0.0,0.499,X:\security\database/snapshots\snap_1790018175_id126_intrusion.jpg,INTRUSION DETECTED: ID #126 entered Restricted Perimeter
+2026-09-21 15:16:15,INTRUSION,Restricted Perimeter,zone_restricted,133,0.0,0.576,X:\security\database/snapshots\snap_1790018175_id133_intrusion.jpg,INTRUSION DETECTED: ID #133 entered Restricted Perimeter
+2026-09-21 15:16:17,INTRUSION,Restricted Perimeter,zone_restricted,137,0.0,0.533,X:\security\database/snapshots\snap_1790018177_id137_intrusion.jpg,INTRUSION DETECTED: ID #137 entered Restricted Perimeter
+2026-09-21 15:16:18,INTRUSION,Restricted Perimeter,zone_restricted,136,0.0,0.386,X:\security\database/snapshots\snap_1790018178_id136_intrusion.jpg,INTRUSION DETECTED: ID #136 entered Restricted Perimeter
+2026-09-21 15:16:20,INTRUSION,Restricted Perimeter,zone_restricted,139,0.0,0.363,X:\security\database/snapshots\snap_1790018180_id139_intrusion.jpg,INTRUSION DETECTED: ID #139 entered Restricted Perimeter
+2026-09-21 15:16:23,INTRUSION,Restricted Perimeter,zone_restricted,142,0.0,0.38,X:\security\database/snapshots\snap_1790018183_id142_intrusion.jpg,INTRUSION DETECTED: ID #142 entered Restricted Perimeter
+2026-09-21 15:16:24,INTRUSION,Restricted Perimeter,zone_restricted,136,6.1,0.413,X:\security\database/snapshots\snap_1790018184_id136_intrusion.jpg,INTRUSION DETECTED: ID #136 entered Restricted Perimeter
+2026-09-21 15:16:26,INTRUSION,Restricted Perimeter,zone_restricted,139,6.1,0.373,X:\security\database/snapshots\snap_1790018186_id139_intrusion.jpg,INTRUSION DETECTED: ID #139 entered Restricted Perimeter
+2026-09-21 15:16:26,INTRUSION,Restricted Perimeter,zone_restricted,141,0.0,0.517,X:\security\database/snapshots\snap_1790018186_id141_intrusion.jpg,INTRUSION DETECTED: ID #141 entered Restricted Perimeter
+2026-09-21 15:16:27,INTRUSION,Restricted Perimeter,zone_restricted,147,0.0,0.399,X:\security\database/snapshots\snap_1790018187_id147_intrusion.jpg,INTRUSION DETECTED: ID #147 entered Restricted Perimeter
+2026-09-21 15:16:29,INTRUSION,Restricted Perimeter,zone_restricted,142,5.5,0.399,X:\security\database/snapshots\snap_1790018189_id142_intrusion.jpg,INTRUSION DETECTED: ID #142 entered Restricted Perimeter
+2026-09-21 15:16:32,INTRUSION,Restricted Perimeter,zone_restricted,139,12.2,0.438,X:\security\database/snapshots\snap_1790018192_id139_intrusion.jpg,INTRUSION DETECTED: ID #139 entered Restricted Perimeter
+2026-09-21 15:16:33,INTRUSION,Restricted Perimeter,zone_restricted,159,0.0,0.477,X:\security\database/snapshots\snap_1790018193_id159_intrusion.jpg,INTRUSION DETECTED: ID #159 entered Restricted Perimeter
+2026-09-21 15:16:34,INTRUSION,Restricted Perimeter,zone_restricted,160,0.0,0.469,X:\security\database/snapshots\snap_1790018194_id160_intrusion.jpg,INTRUSION DETECTED: ID #160 entered Restricted Perimeter
+2026-09-21 15:16:40,INTRUSION,Restricted Perimeter,zone_restricted,160,6.2,0.469,X:\security\database/snapshots\snap_1790018200_id160_intrusion.jpg,INTRUSION DETECTED: ID #160 entered Restricted Perimeter
+2026-09-21 15:16:42,INTRUSION,Restricted Perimeter,zone_restricted,138,0.0,0.385,X:\security\database/snapshots\snap_1790018202_id138_intrusion.jpg,INTRUSION DETECTED: ID #138 entered Restricted Perimeter
+2026-09-21 15:17:19,INTRUSION,Restricted Perimeter,zone_restricted,138,36.5,0.385,X:\security\database/snapshots\snap_1790018239_id138_intrusion.jpg,INTRUSION DETECTED: ID #138 entered Restricted Perimeter
+2026-09-21 15:17:19,LOITERING,VIP Lobby,zone_lobby,163,37.5,0.634,X:\security\database/snapshots\snap_1790018239_id163_loitering.jpg,LOITERING ALERT: ID #163 stationary for 37.5s in VIP Lobby
+2026-09-21 15:17:19,INTRUSION,Restricted Perimeter,zone_restricted,168,0.0,0.586,X:\security\database/snapshots\snap_1790018239_id168_intrusion.jpg,INTRUSION DETECTED: ID #168 entered Restricted Perimeter
+2026-09-21 15:17:25,INTRUSION,Restricted Perimeter,zone_restricted,138,42.6,0.385,X:\security\database/snapshots\snap_1790018245_id138_intrusion.jpg,INTRUSION DETECTED: ID #138 entered Restricted Perimeter
+2026-09-21 15:17:25,INTRUSION,Restricted Perimeter,zone_restricted,168,6.1,0.592,X:\security\database/snapshots\snap_1790018245_id168_intrusion.jpg,INTRUSION DETECTED: ID #168 entered Restricted Perimeter
+2026-09-21 15:17:31,INTRUSION,Restricted Perimeter,zone_restricted,168,12.3,0.592,X:\security\database/snapshots\snap_1790018251_id168_intrusion.jpg,INTRUSION DETECTED: ID #168 entered Restricted Perimeter
+2026-09-21 15:17:34,LOITERING,VIP Lobby,zone_lobby,167,14.7,0.81,X:\security\database/snapshots\snap_1790018254_id167_loitering.jpg,LOITERING ALERT: ID #167 stationary for 14.7s in VIP Lobby
+2026-09-21 15:17:37,INTRUSION,Restricted Perimeter,zone_restricted,168,18.4,0.768,X:\security\database/snapshots\snap_1790018257_id168_intrusion.jpg,INTRUSION DETECTED: ID #168 entered Restricted Perimeter
+2026-09-21 15:17:59,INTRUSION,Restricted Perimeter,zone_restricted,2,0.0,0.585,X:\security\database/snapshots\snap_1790018279_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 15:18:03,LOITERING,VIP Lobby,zone_lobby,1,4.0,0.81,X:\security\database/snapshots\snap_1790018283_id1_loitering.jpg,LOITERING ALERT: ID #1 stationary for 4.0s in VIP Lobby
+2026-09-21 15:18:05,INTRUSION,Restricted Perimeter,zone_restricted,2,6.1,0.585,X:\security\database/snapshots\snap_1790018285_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-21 16:20:47,INTRUSION,Restricted Perimeter,zone_restricted,6,0.0,0.585,X:\security\database/snapshots\snap_1790022047_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 16:20:51,LOITERING,VIP Lobby,zone_lobby,5,4.1,0.81,X:\security\database/snapshots\snap_1790022051_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 4.1s in VIP Lobby
+2026-09-21 16:20:53,INTRUSION,Restricted Perimeter,zone_restricted,6,6.0,0.592,X:\security\database/snapshots\snap_1790022053_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 16:20:59,LOITERING,VIP Lobby,zone_lobby,5,12.1,0.59,X:\security\database/snapshots\snap_1790022059_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 12.1s in VIP Lobby
+2026-09-21 16:20:59,INTRUSION,Restricted Perimeter,zone_restricted,6,12.1,0.619,X:\security\database/snapshots\snap_1790022059_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 16:21:06,INTRUSION,Restricted Perimeter,zone_restricted,6,19.1,0.586,X:\security\database/snapshots\snap_1790022066_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 16:21:07,LOITERING,VIP Lobby,zone_lobby,5,20.3,0.815,X:\security\database/snapshots\snap_1790022067_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 20.3s in VIP Lobby
+2026-09-21 16:21:12,INTRUSION,Restricted Perimeter,zone_restricted,6,25.5,0.585,X:\security\database/snapshots\snap_1790022072_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-21 16:21:15,LOITERING,VIP Lobby,zone_lobby,5,28.4,0.81,X:\security\database/snapshots\snap_1790022075_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 28.4s in VIP Lobby
+2026-09-21 16:21:23,LOITERING,VIP Lobby,zone_lobby,5,36.5,0.815,X:\security\database/snapshots\snap_1790022083_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 36.5s in VIP Lobby
+2026-09-21 16:21:32,LOITERING,VIP Lobby,zone_lobby,5,44.6,0.81,X:\security\database/snapshots\snap_1790022092_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 44.6s in VIP Lobby
+2026-09-21 16:21:40,LOITERING,VIP Lobby,zone_lobby,5,52.6,0.804,X:\security\database/snapshots\snap_1790022100_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 52.6s in VIP Lobby
+2026-09-21 16:21:40,INTRUSION,Restricted Perimeter,zone_restricted,17,0.0,0.646,X:\security\database/snapshots\snap_1790022100_id17_intrusion.jpg,INTRUSION DETECTED: ID #17 entered Restricted Perimeter
+2026-09-21 16:21:46,MANUAL_SNAPSHOT,Manual Capture,,-1,0.0,0.0,X:\security\database/snapshots\snap_1790022106_id-1_manual_snapshot.jpg,Operator initiated manual forensic snapshot
+2026-09-21 16:21:47,INTRUSION,Restricted Perimeter,zone_restricted,17,6.7,0.634,X:\security\database/snapshots\snap_1790022107_id17_intrusion.jpg,INTRUSION DETECTED: ID #17 entered Restricted Perimeter
+2026-09-21 16:21:48,LOITERING,VIP Lobby,zone_lobby,5,60.9,0.814,X:\security\database/snapshots\snap_1790022108_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 60.9s in VIP Lobby
+2026-09-21 16:21:53,INTRUSION,Restricted Perimeter,zone_restricted,17,12.9,0.634,X:\security\database/snapshots\snap_1790022113_id17_intrusion.jpg,INTRUSION DETECTED: ID #17 entered Restricted Perimeter
+2026-09-21 16:22:03,LOITERING,VIP Lobby,zone_lobby,5,75.6,0.814,X:\security\database/snapshots\snap_1790022123_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 75.6s in VIP Lobby
+2026-09-21 16:22:11,LOITERING,VIP Lobby,zone_lobby,5,83.7,0.81,X:\security\database/snapshots\snap_1790022131_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 83.7s in VIP Lobby
+2026-09-21 16:22:17,INTRUSION,Restricted Perimeter,zone_restricted,25,0.0,0.646,X:\security\database/snapshots\snap_1790022137_id25_intrusion.jpg,INTRUSION DETECTED: ID #25 entered Restricted Perimeter
+2026-09-21 16:22:19,LOITERING,VIP Lobby,zone_lobby,5,91.9,0.743,X:\security\database/snapshots\snap_1790022139_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 91.9s in VIP Lobby
+2026-09-21 16:22:23,INTRUSION,Restricted Perimeter,zone_restricted,25,6.0,0.634,X:\security\database/snapshots\snap_1790022143_id25_intrusion.jpg,INTRUSION DETECTED: ID #25 entered Restricted Perimeter
+2026-09-21 16:22:27,LOITERING,VIP Lobby,zone_lobby,5,99.9,0.898,X:\security\database/snapshots\snap_1790022147_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 99.9s in VIP Lobby
+2026-09-21 16:22:29,INTRUSION,Restricted Perimeter,zone_restricted,25,12.2,0.634,X:\security\database/snapshots\snap_1790022149_id25_intrusion.jpg,INTRUSION DETECTED: ID #25 entered Restricted Perimeter
+2026-09-21 16:22:34,INTRUSION,Restricted Perimeter,zone_restricted,24,0.0,0.623,X:\security\database/snapshots\snap_1790022154_id24_intrusion.jpg,INTRUSION DETECTED: ID #24 entered Restricted Perimeter
+2026-09-21 16:22:35,LOITERING,VIP Lobby,zone_lobby,5,108.2,0.685,X:\security\database/snapshots\snap_1790022155_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 108.2s in VIP Lobby
+2026-09-21 16:22:36,INTRUSION,Restricted Perimeter,zone_restricted,27,0.0,0.797,X:\security\database/snapshots\snap_1790022156_id27_intrusion.jpg,INTRUSION DETECTED: ID #27 entered Restricted Perimeter
+2026-09-21 16:22:36,INTRUSION,Restricted Perimeter,zone_restricted,32,0.0,0.614,X:\security\database/snapshots\snap_1790022156_id32_intrusion.jpg,INTRUSION DETECTED: ID #32 entered Restricted Perimeter
+2026-09-21 16:22:42,INTRUSION,Restricted Perimeter,zone_restricted,27,6.2,0.661,X:\security\database/snapshots\snap_1790022162_id27_intrusion.jpg,INTRUSION DETECTED: ID #27 entered Restricted Perimeter
+2026-09-21 16:22:42,INTRUSION,Restricted Perimeter,zone_restricted,32,6.2,0.654,X:\security\database/snapshots\snap_1790022162_id32_intrusion.jpg,INTRUSION DETECTED: ID #32 entered Restricted Perimeter
+2026-09-21 16:22:43,LOITERING,VIP Lobby,zone_lobby,5,116.3,0.846,X:\security\database/snapshots\snap_1790022163_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 116.3s in VIP Lobby
+2026-09-21 16:22:48,INTRUSION,Restricted Perimeter,zone_restricted,27,12.3,0.603,X:\security\database/snapshots\snap_1790022168_id27_intrusion.jpg,INTRUSION DETECTED: ID #27 entered Restricted Perimeter
+2026-09-21 16:22:49,INTRUSION,Restricted Perimeter,zone_restricted,32,12.3,0.658,X:\security\database/snapshots\snap_1790022169_id32_intrusion.jpg,INTRUSION DETECTED: ID #32 entered Restricted Perimeter
+2026-09-21 16:22:51,LOITERING,VIP Lobby,zone_lobby,5,124.3,0.851,X:\security\database/snapshots\snap_1790022171_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 124.3s in VIP Lobby
+2026-09-21 16:22:55,INTRUSION,Restricted Perimeter,zone_restricted,32,18.3,0.644,X:\security\database/snapshots\snap_1790022175_id32_intrusion.jpg,INTRUSION DETECTED: ID #32 entered Restricted Perimeter
+2026-09-21 16:22:55,INTRUSION,Restricted Perimeter,zone_restricted,33,0.0,0.603,X:\security\database/snapshots\snap_1790022175_id33_intrusion.jpg,INTRUSION DETECTED: ID #33 entered Restricted Perimeter
+2026-09-21 16:22:56,LOITERING,VIP Lobby,zone_lobby,30,15.5,0.776,X:\security\database/snapshots\snap_1790022176_id30_loitering.jpg,LOITERING ALERT: ID #30 stationary for 15.5s in VIP Lobby
+2026-09-21 16:22:59,LOITERING,VIP Lobby,zone_lobby,5,132.3,0.675,X:\security\database/snapshots\snap_1790022179_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 132.3s in VIP Lobby
+2026-09-21 16:23:01,INTRUSION,Restricted Perimeter,zone_restricted,32,24.5,0.617,X:\security\database/snapshots\snap_1790022181_id32_intrusion.jpg,INTRUSION DETECTED: ID #32 entered Restricted Perimeter
+2026-09-21 16:23:01,INTRUSION,Restricted Perimeter,zone_restricted,33,6.1,0.62,X:\security\database/snapshots\snap_1790022181_id33_intrusion.jpg,INTRUSION DETECTED: ID #33 entered Restricted Perimeter
+2026-09-21 16:23:05,LOITERING,VIP Lobby,zone_lobby,30,23.6,0.613,X:\security\database/snapshots\snap_1790022185_id30_loitering.jpg,LOITERING ALERT: ID #30 stationary for 23.6s in VIP Lobby
+2026-09-21 16:23:07,INTRUSION,Restricted Perimeter,zone_restricted,33,12.1,0.684,X:\security\database/snapshots\snap_1790022187_id33_intrusion.jpg,INTRUSION DETECTED: ID #33 entered Restricted Perimeter
+2026-09-21 16:23:08,LOITERING,VIP Lobby,zone_lobby,5,140.5,0.744,X:\security\database/snapshots\snap_1790022188_id5_loitering.jpg,LOITERING ALERT: ID #5 stationary for 140.5s in VIP Lobby
+2026-09-21 16:23:12,LOITERING,VIP Lobby,zone_lobby,29,15.6,0.689,X:\security\database/snapshots\snap_1790022192_id29_loitering.jpg,LOITERING ALERT: ID #29 stationary for 15.6s in VIP Lobby
+2026-09-21 16:23:13,INTRUSION,Restricted Perimeter,zone_restricted,33,18.4,0.612,X:\security\database/snapshots\snap_1790022193_id33_intrusion.jpg,INTRUSION DETECTED: ID #33 entered Restricted Perimeter
+2026-09-21 16:23:16,INTRUSION,Restricted Perimeter,zone_restricted,41,0.0,0.832,X:\security\database/snapshots\snap_1790022196_id41_intrusion.jpg,INTRUSION DETECTED: ID #41 entered Restricted Perimeter
+2026-09-21 16:23:18,INTRUSION,Restricted Perimeter,zone_restricted,42,0.0,0.703,X:\security\database/snapshots\snap_1790022198_id42_intrusion.jpg,INTRUSION DETECTED: ID #42 entered Restricted Perimeter
+2026-09-21 16:23:24,INTRUSION,Restricted Perimeter,zone_restricted,42,6.2,0.636,X:\security\database/snapshots\snap_1790022204_id42_intrusion.jpg,INTRUSION DETECTED: ID #42 entered Restricted Perimeter
+2026-09-21 16:23:28,LOITERING,VIP Lobby,zone_lobby,28,15.7,0.82,X:\security\database/snapshots\snap_1790022208_id28_loitering.jpg,LOITERING ALERT: ID #28 stationary for 15.7s in VIP Lobby
+2026-09-21 16:23:30,INTRUSION,Restricted Perimeter,zone_restricted,42,12.4,0.622,X:\security\database/snapshots\snap_1790022210_id42_intrusion.jpg,INTRUSION DETECTED: ID #42 entered Restricted Perimeter
+2026-09-21 16:23:33,INTRUSION,Restricted Perimeter,zone_restricted,46,0.0,0.604,X:\security\database/snapshots\snap_1790022213_id46_intrusion.jpg,INTRUSION DETECTED: ID #46 entered Restricted Perimeter
+2026-09-21 16:23:36,LOITERING,VIP Lobby,zone_lobby,44,15.7,0.756,X:\security\database/snapshots\snap_1790022216_id44_loitering.jpg,LOITERING ALERT: ID #44 stationary for 15.7s in VIP Lobby
+2026-09-21 16:23:36,INTRUSION,Restricted Perimeter,zone_restricted,41,0.0,0.882,X:\security\database/snapshots\snap_1790022216_id41_intrusion.jpg,INTRUSION DETECTED: ID #41 entered Restricted Perimeter
+2026-09-21 16:23:36,INTRUSION,Restricted Perimeter,zone_restricted,42,18.4,0.682,X:\security\database/snapshots\snap_1790022216_id42_intrusion.jpg,INTRUSION DETECTED: ID #42 entered Restricted Perimeter
+2026-09-21 16:23:39,INTRUSION,Restricted Perimeter,zone_restricted,46,0.0,0.772,X:\security\database/snapshots\snap_1790022219_id46_intrusion.jpg,INTRUSION DETECTED: ID #46 entered Restricted Perimeter
+2026-09-21 16:23:43,INTRUSION,Restricted Perimeter,zone_restricted,41,6.6,0.811,X:\security\database/snapshots\snap_1790022223_id41_intrusion.jpg,INTRUSION DETECTED: ID #41 entered Restricted Perimeter
+2026-09-21 16:23:43,INTRUSION,Restricted Perimeter,zone_restricted,42,25.0,0.603,X:\security\database/snapshots\snap_1790022223_id42_intrusion.jpg,INTRUSION DETECTED: ID #42 entered Restricted Perimeter
+2026-09-21 16:23:44,LOITERING,VIP Lobby,zone_lobby,44,23.9,0.654,X:\security\database/snapshots\snap_1790022224_id44_loitering.jpg,LOITERING ALERT: ID #44 stationary for 23.9s in VIP Lobby
+2026-09-21 16:23:45,INTRUSION,Restricted Perimeter,zone_restricted,46,6.0,0.788,X:\security\database/snapshots\snap_1790022225_id46_intrusion.jpg,INTRUSION DETECTED: ID #46 entered Restricted Perimeter
+2026-09-21 16:23:49,INTRUSION,Restricted Perimeter,zone_restricted,42,31.0,0.63,X:\security\database/snapshots\snap_1790022229_id42_intrusion.jpg,INTRUSION DETECTED: ID #42 entered Restricted Perimeter
+2026-09-21 16:23:51,INTRUSION,Restricted Perimeter,zone_restricted,46,12.2,0.651,X:\security\database/snapshots\snap_1790022231_id46_intrusion.jpg,INTRUSION DETECTED: ID #46 entered Restricted Perimeter
+2026-09-21 16:23:52,LOITERING,VIP Lobby,zone_lobby,44,32.2,0.647,X:\security\database/snapshots\snap_1790022232_id44_loitering.jpg,LOITERING ALERT: ID #44 stationary for 32.2s in VIP Lobby
+2026-09-21 16:23:56,INTRUSION,Restricted Perimeter,zone_restricted,50,0.0,0.611,X:\security\database/snapshots\snap_1790022236_id50_intrusion.jpg,INTRUSION DETECTED: ID #50 entered Restricted Perimeter
+2026-09-21 16:23:58,INTRUSION,Restricted Perimeter,zone_restricted,46,18.4,0.638,X:\security\database/snapshots\snap_1790022238_id46_intrusion.jpg,INTRUSION DETECTED: ID #46 entered Restricted Perimeter
+2026-09-21 16:24:02,INTRUSION,Restricted Perimeter,zone_restricted,50,6.2,0.607,X:\security\database/snapshots\snap_1790022242_id50_intrusion.jpg,INTRUSION DETECTED: ID #50 entered Restricted Perimeter
+2026-09-21 16:24:04,INTRUSION,Restricted Perimeter,zone_restricted,46,24.4,0.656,X:\security\database/snapshots\snap_1790022244_id46_intrusion.jpg,INTRUSION DETECTED: ID #46 entered Restricted Perimeter
+2026-09-21 16:24:10,INTRUSION,Restricted Perimeter,zone_restricted,46,30.6,0.83,X:\security\database/snapshots\snap_1790022250_id46_intrusion.jpg,INTRUSION DETECTED: ID #46 entered Restricted Perimeter
+2026-09-21 16:24:13,LOITERING,VIP Lobby,zone_lobby,49,15.7,0.641,X:\security\database/snapshots\snap_1790022253_id49_loitering.jpg,LOITERING ALERT: ID #49 stationary for 15.7s in VIP Lobby
+2026-09-21 16:24:16,INTRUSION,Restricted Perimeter,zone_restricted,46,36.9,0.777,X:\security\database/snapshots\snap_1790022256_id46_intrusion.jpg,INTRUSION DETECTED: ID #46 entered Restricted Perimeter
+2026-09-21 16:24:21,LOITERING,VIP Lobby,zone_lobby,49,23.8,0.601,X:\security\database/snapshots\snap_1790022261_id49_loitering.jpg,LOITERING ALERT: ID #49 stationary for 23.8s in VIP Lobby
+2026-09-21 16:24:22,INTRUSION,Restricted Perimeter,zone_restricted,46,43.0,0.686,X:\security\database/snapshots\snap_1790022262_id46_intrusion.jpg,INTRUSION DETECTED: ID #46 entered Restricted Perimeter
+2026-09-21 16:24:25,INTRUSION,Restricted Perimeter,zone_restricted,60,0.0,0.687,X:\security\database/snapshots\snap_1790022265_id60_intrusion.jpg,INTRUSION DETECTED: ID #60 entered Restricted Perimeter
+2026-09-21 16:24:28,INTRUSION,Restricted Perimeter,zone_restricted,61,0.0,0.699,X:\security\database/snapshots\snap_1790022268_id61_intrusion.jpg,INTRUSION DETECTED: ID #61 entered Restricted Perimeter
+2026-09-21 16:24:30,LOITERING,VIP Lobby,zone_lobby,49,32.1,0.603,X:\security\database/snapshots\snap_1790022270_id49_loitering.jpg,LOITERING ALERT: ID #49 stationary for 32.1s in VIP Lobby
+2026-09-21 16:24:31,INTRUSION,Restricted Perimeter,zone_restricted,60,6.2,0.634,X:\security\database/snapshots\snap_1790022271_id60_intrusion.jpg,INTRUSION DETECTED: ID #60 entered Restricted Perimeter
+2026-09-21 16:24:34,INTRUSION,Restricted Perimeter,zone_restricted,61,1.5,0.733,X:\security\database/snapshots\snap_1790022274_id61_intrusion.jpg,INTRUSION DETECTED: ID #61 entered Restricted Perimeter
+2026-09-21 16:24:38,LOITERING,VIP Lobby,zone_lobby,49,40.2,0.615,X:\security\database/snapshots\snap_1790022278_id49_loitering.jpg,LOITERING ALERT: ID #49 stationary for 40.2s in VIP Lobby
+2026-09-21 16:24:40,INTRUSION,Restricted Perimeter,zone_restricted,61,7.7,0.645,X:\security\database/snapshots\snap_1790022280_id61_intrusion.jpg,INTRUSION DETECTED: ID #61 entered Restricted Perimeter
+2026-09-21 16:24:41,INTRUSION,Restricted Perimeter,zone_restricted,68,0.0,0.648,X:\security\database/snapshots\snap_1790022281_id68_intrusion.jpg,INTRUSION DETECTED: ID #68 entered Restricted Perimeter
+2026-09-21 16:24:43,INTRUSION,Restricted Perimeter,zone_restricted,69,0.0,0.633,X:\security\database/snapshots\snap_1790022283_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:24:46,LOITERING,VIP Lobby,zone_lobby,49,48.3,0.678,X:\security\database/snapshots\snap_1790022286_id49_loitering.jpg,LOITERING ALERT: ID #49 stationary for 48.3s in VIP Lobby
+2026-09-21 16:24:47,INTRUSION,Restricted Perimeter,zone_restricted,68,6.2,0.622,X:\security\database/snapshots\snap_1790022287_id68_intrusion.jpg,INTRUSION DETECTED: ID #68 entered Restricted Perimeter
+2026-09-21 16:24:49,INTRUSION,Restricted Perimeter,zone_restricted,69,6.1,0.608,X:\security\database/snapshots\snap_1790022289_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:24:50,INTRUSION,Restricted Perimeter,zone_restricted,70,0.0,0.761,X:\security\database/snapshots\snap_1790022290_id70_intrusion.jpg,INTRUSION DETECTED: ID #70 entered Restricted Perimeter
+2026-09-21 16:24:52,INTRUSION,Restricted Perimeter,zone_restricted,71,0.0,0.628,X:\security\database/snapshots\snap_1790022292_id71_intrusion.jpg,INTRUSION DETECTED: ID #71 entered Restricted Perimeter
+2026-09-21 16:24:52,INTRUSION,Restricted Perimeter,zone_restricted,72,0.0,0.742,X:\security\database/snapshots\snap_1790022292_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:24:54,LOITERING,VIP Lobby,zone_lobby,49,56.5,0.704,X:\security\database/snapshots\snap_1790022294_id49_loitering.jpg,LOITERING ALERT: ID #49 stationary for 56.5s in VIP Lobby
+2026-09-21 16:24:55,INTRUSION,Restricted Perimeter,zone_restricted,69,12.2,0.606,X:\security\database/snapshots\snap_1790022295_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:24:56,INTRUSION,Restricted Perimeter,zone_restricted,70,6.2,0.634,X:\security\database/snapshots\snap_1790022296_id70_intrusion.jpg,INTRUSION DETECTED: ID #70 entered Restricted Perimeter
+2026-09-21 16:24:59,INTRUSION,Restricted Perimeter,zone_restricted,72,6.3,0.68,X:\security\database/snapshots\snap_1790022299_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:24:59,INTRUSION,Restricted Perimeter,zone_restricted,71,0.0,0.614,X:\security\database/snapshots\snap_1790022299_id71_intrusion.jpg,INTRUSION DETECTED: ID #71 entered Restricted Perimeter
+2026-09-21 16:25:01,INTRUSION,Restricted Perimeter,zone_restricted,69,18.3,0.816,X:\security\database/snapshots\snap_1790022301_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:25:02,LOITERING,VIP Lobby,zone_lobby,49,64.7,0.66,X:\security\database/snapshots\snap_1790022302_id49_loitering.jpg,LOITERING ALERT: ID #49 stationary for 64.7s in VIP Lobby
+2026-09-21 16:25:05,INTRUSION,Restricted Perimeter,zone_restricted,72,12.4,0.865,X:\security\database/snapshots\snap_1790022305_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:25:07,INTRUSION,Restricted Perimeter,zone_restricted,69,24.5,0.605,X:\security\database/snapshots\snap_1790022307_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:25:11,INTRUSION,Restricted Perimeter,zone_restricted,72,18.7,0.834,X:\security\database/snapshots\snap_1790022311_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:25:13,INTRUSION,Restricted Perimeter,zone_restricted,69,30.7,0.601,X:\security\database/snapshots\snap_1790022313_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:25:17,INTRUSION,Restricted Perimeter,zone_restricted,72,24.9,0.855,X:\security\database/snapshots\snap_1790022317_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:25:19,INTRUSION,Restricted Perimeter,zone_restricted,70,0.0,0.825,X:\security\database/snapshots\snap_1790022319_id70_intrusion.jpg,INTRUSION DETECTED: ID #70 entered Restricted Perimeter
+2026-09-21 16:25:20,INTRUSION,Restricted Perimeter,zone_restricted,69,36.8,0.658,X:\security\database/snapshots\snap_1790022320_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:25:24,INTRUSION,Restricted Perimeter,zone_restricted,75,0.0,0.742,X:\security\database/snapshots\snap_1790022324_id75_intrusion.jpg,INTRUSION DETECTED: ID #75 entered Restricted Perimeter
+2026-09-21 16:25:25,INTRUSION,Restricted Perimeter,zone_restricted,70,6.0,0.702,X:\security\database/snapshots\snap_1790022325_id70_intrusion.jpg,INTRUSION DETECTED: ID #70 entered Restricted Perimeter
+2026-09-21 16:25:26,INTRUSION,Restricted Perimeter,zone_restricted,69,42.9,0.615,X:\security\database/snapshots\snap_1790022326_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:25:32,INTRUSION,Restricted Perimeter,zone_restricted,69,48.9,0.795,X:\security\database/snapshots\snap_1790022332_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:25:37,INTRUSION,Restricted Perimeter,zone_restricted,85,0.0,0.717,X:\security\database/snapshots\snap_1790022337_id85_intrusion.jpg,INTRUSION DETECTED: ID #85 entered Restricted Perimeter
+2026-09-21 16:25:38,INTRUSION,Restricted Perimeter,zone_restricted,69,55.0,0.707,X:\security\database/snapshots\snap_1790022338_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:25:43,INTRUSION,Restricted Perimeter,zone_restricted,85,6.2,0.799,X:\security\database/snapshots\snap_1790022343_id85_intrusion.jpg,INTRUSION DETECTED: ID #85 entered Restricted Perimeter
+2026-09-21 16:25:43,INTRUSION,Restricted Perimeter,zone_restricted,87,0.0,0.678,X:\security\database/snapshots\snap_1790022343_id87_intrusion.jpg,INTRUSION DETECTED: ID #87 entered Restricted Perimeter
+2026-09-21 16:25:44,INTRUSION,Restricted Perimeter,zone_restricted,69,61.1,0.602,X:\security\database/snapshots\snap_1790022344_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:25:49,INTRUSION,Restricted Perimeter,zone_restricted,87,6.1,0.637,X:\security\database/snapshots\snap_1790022349_id87_intrusion.jpg,INTRUSION DETECTED: ID #87 entered Restricted Perimeter
+2026-09-21 16:25:50,INTRUSION,Restricted Perimeter,zone_restricted,69,67.3,0.793,X:\security\database/snapshots\snap_1790022350_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:25:50,INTRUSION,Restricted Perimeter,zone_restricted,85,0.0,0.746,X:\security\database/snapshots\snap_1790022350_id85_intrusion.jpg,INTRUSION DETECTED: ID #85 entered Restricted Perimeter
+2026-09-21 16:25:53,INTRUSION,Restricted Perimeter,zone_restricted,72,0.0,0.817,X:\security\database/snapshots\snap_1790022353_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:25:56,INTRUSION,Restricted Perimeter,zone_restricted,69,73.5,0.705,X:\security\database/snapshots\snap_1790022356_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:26:00,INTRUSION,Restricted Perimeter,zone_restricted,72,0.0,0.652,X:\security\database/snapshots\snap_1790022360_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:26:02,INTRUSION,Restricted Perimeter,zone_restricted,91,0.0,0.626,X:\security\database/snapshots\snap_1790022362_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:26:02,INTRUSION,Restricted Perimeter,zone_restricted,69,79.6,0.731,X:\security\database/snapshots\snap_1790022362_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:26:07,INTRUSION,Restricted Perimeter,zone_restricted,85,0.0,0.682,X:\security\database/snapshots\snap_1790022367_id85_intrusion.jpg,INTRUSION DETECTED: ID #85 entered Restricted Perimeter
+2026-09-21 16:26:08,INTRUSION,Restricted Perimeter,zone_restricted,91,6.1,0.604,X:\security\database/snapshots\snap_1790022368_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:26:09,INTRUSION,Restricted Perimeter,zone_restricted,69,85.8,0.784,X:\security\database/snapshots\snap_1790022369_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:26:09,LOITERING,VIP Lobby,zone_lobby,89,15.7,0.715,X:\security\database/snapshots\snap_1790022369_id89_loitering.jpg,LOITERING ALERT: ID #89 stationary for 15.7s in VIP Lobby
+2026-09-21 16:26:14,INTRUSION,Restricted Perimeter,zone_restricted,91,12.1,0.63,X:\security\database/snapshots\snap_1790022374_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:26:14,INTRUSION,Restricted Perimeter,zone_restricted,85,0.0,0.636,X:\security\database/snapshots\snap_1790022374_id85_intrusion.jpg,INTRUSION DETECTED: ID #85 entered Restricted Perimeter
+2026-09-21 16:26:15,INTRUSION,Restricted Perimeter,zone_restricted,69,91.9,0.774,X:\security\database/snapshots\snap_1790022375_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:26:17,LOITERING,VIP Lobby,zone_lobby,89,23.9,0.767,X:\security\database/snapshots\snap_1790022377_id89_loitering.jpg,LOITERING ALERT: ID #89 stationary for 23.9s in VIP Lobby
+2026-09-21 16:26:20,INTRUSION,Restricted Perimeter,zone_restricted,91,18.2,0.612,X:\security\database/snapshots\snap_1790022380_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:26:21,INTRUSION,Restricted Perimeter,zone_restricted,69,98.2,0.685,X:\security\database/snapshots\snap_1790022381_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:26:21,INTRUSION,Restricted Perimeter,zone_restricted,85,0.0,0.642,X:\security\database/snapshots\snap_1790022381_id85_intrusion.jpg,INTRUSION DETECTED: ID #85 entered Restricted Perimeter
+2026-09-21 16:26:26,LOITERING,VIP Lobby,zone_lobby,89,32.1,0.751,X:\security\database/snapshots\snap_1790022386_id89_loitering.jpg,LOITERING ALERT: ID #89 stationary for 32.1s in VIP Lobby
+2026-09-21 16:26:26,INTRUSION,Restricted Perimeter,zone_restricted,96,0.0,0.733,X:\security\database/snapshots\snap_1790022386_id96_intrusion.jpg,INTRUSION DETECTED: ID #96 entered Restricted Perimeter
+2026-09-21 16:26:27,INTRUSION,Restricted Perimeter,zone_restricted,91,0.0,0.637,X:\security\database/snapshots\snap_1790022387_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:26:27,INTRUSION,Restricted Perimeter,zone_restricted,69,104.4,0.801,X:\security\database/snapshots\snap_1790022387_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:26:33,INTRUSION,Restricted Perimeter,zone_restricted,91,6.1,0.707,X:\security\database/snapshots\snap_1790022393_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:26:33,INTRUSION,Restricted Perimeter,zone_restricted,69,110.4,0.642,X:\security\database/snapshots\snap_1790022393_id69_intrusion.jpg,INTRUSION DETECTED: ID #69 entered Restricted Perimeter
+2026-09-21 16:26:34,LOITERING,VIP Lobby,zone_lobby,89,40.2,0.611,X:\security\database/snapshots\snap_1790022394_id89_loitering.jpg,LOITERING ALERT: ID #89 stationary for 40.2s in VIP Lobby
+2026-09-21 16:26:39,INTRUSION,Restricted Perimeter,zone_restricted,91,12.2,0.624,X:\security\database/snapshots\snap_1790022399_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:26:42,LOITERING,VIP Lobby,zone_lobby,89,48.4,0.694,X:\security\database/snapshots\snap_1790022402_id89_loitering.jpg,LOITERING ALERT: ID #89 stationary for 48.4s in VIP Lobby
+2026-09-21 16:26:44,INTRUSION,Restricted Perimeter,zone_restricted,100,0.0,0.81,X:\security\database/snapshots\snap_1790022404_id100_intrusion.jpg,INTRUSION DETECTED: ID #100 entered Restricted Perimeter
+2026-09-21 16:26:45,INTRUSION,Restricted Perimeter,zone_restricted,91,18.2,0.729,X:\security\database/snapshots\snap_1790022405_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:26:50,LOITERING,VIP Lobby,zone_lobby,89,56.6,0.818,X:\security\database/snapshots\snap_1790022410_id89_loitering.jpg,LOITERING ALERT: ID #89 stationary for 56.6s in VIP Lobby
+2026-09-21 16:26:53,INTRUSION,Restricted Perimeter,zone_restricted,91,25.8,0.618,X:\security\database/snapshots\snap_1790022413_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:26:54,INTRUSION,Restricted Perimeter,zone_restricted,100,0.0,0.832,X:\security\database/snapshots\snap_1790022414_id100_intrusion.jpg,INTRUSION DETECTED: ID #100 entered Restricted Perimeter
+2026-09-21 16:26:56,INTRUSION,Restricted Perimeter,zone_restricted,72,0.0,0.692,X:\security\database/snapshots\snap_1790022416_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:26:58,LOITERING,VIP Lobby,zone_lobby,89,64.7,0.826,X:\security\database/snapshots\snap_1790022418_id89_loitering.jpg,LOITERING ALERT: ID #89 stationary for 64.7s in VIP Lobby
+2026-09-21 16:26:59,INTRUSION,Restricted Perimeter,zone_restricted,91,32.0,0.627,X:\security\database/snapshots\snap_1790022419_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:27:02,INTRUSION,Restricted Perimeter,zone_restricted,72,6.1,0.792,X:\security\database/snapshots\snap_1790022422_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:27:05,INTRUSION,Restricted Perimeter,zone_restricted,91,38.1,0.644,X:\security\database/snapshots\snap_1790022425_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:27:06,LOITERING,VIP Lobby,zone_lobby,89,72.8,0.679,X:\security\database/snapshots\snap_1790022426_id89_loitering.jpg,LOITERING ALERT: ID #89 stationary for 72.8s in VIP Lobby
+2026-09-21 16:27:08,INTRUSION,Restricted Perimeter,zone_restricted,72,12.3,0.754,X:\security\database/snapshots\snap_1790022428_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:27:11,INTRUSION,Restricted Perimeter,zone_restricted,91,44.1,0.671,X:\security\database/snapshots\snap_1790022431_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:27:14,LOITERING,VIP Lobby,zone_lobby,89,80.9,0.647,X:\security\database/snapshots\snap_1790022434_id89_loitering.jpg,LOITERING ALERT: ID #89 stationary for 80.9s in VIP Lobby
+2026-09-21 16:27:15,INTRUSION,Restricted Perimeter,zone_restricted,72,18.6,0.744,X:\security\database/snapshots\snap_1790022435_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:27:17,INTRUSION,Restricted Perimeter,zone_restricted,91,50.1,0.624,X:\security\database/snapshots\snap_1790022437_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:27:21,INTRUSION,Restricted Perimeter,zone_restricted,72,24.7,0.839,X:\security\database/snapshots\snap_1790022441_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:27:23,LOITERING,VIP Lobby,zone_lobby,89,89.0,0.864,X:\security\database/snapshots\snap_1790022443_id89_loitering.jpg,LOITERING ALERT: ID #89 stationary for 89.0s in VIP Lobby
+2026-09-21 16:27:23,INTRUSION,Restricted Perimeter,zone_restricted,91,56.2,0.655,X:\security\database/snapshots\snap_1790022443_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:27:25,LOITERING,VIP Lobby,zone_lobby,103,15.6,0.791,X:\security\database/snapshots\snap_1790022445_id103_loitering.jpg,LOITERING ALERT: ID #103 stationary for 15.6s in VIP Lobby
+2026-09-21 16:27:27,INTRUSION,Restricted Perimeter,zone_restricted,72,30.9,0.845,X:\security\database/snapshots\snap_1790022447_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:27:29,INTRUSION,Restricted Perimeter,zone_restricted,91,62.3,0.655,X:\security\database/snapshots\snap_1790022449_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:27:31,LOITERING,VIP Lobby,zone_lobby,89,97.3,0.864,X:\security\database/snapshots\snap_1790022451_id89_loitering.jpg,LOITERING ALERT: ID #89 stationary for 97.3s in VIP Lobby
+2026-09-21 16:27:33,LOITERING,VIP Lobby,zone_lobby,103,23.6,0.79,X:\security\database/snapshots\snap_1790022453_id103_loitering.jpg,LOITERING ALERT: ID #103 stationary for 23.6s in VIP Lobby
+2026-09-21 16:27:33,INTRUSION,Restricted Perimeter,zone_restricted,72,37.2,0.845,X:\security\database/snapshots\snap_1790022453_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:27:35,INTRUSION,Restricted Perimeter,zone_restricted,91,68.5,0.655,X:\security\database/snapshots\snap_1790022455_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:27:39,LOITERING,VIP Lobby,zone_lobby,89,105.3,0.864,X:\security\database/snapshots\snap_1790022459_id89_loitering.jpg,LOITERING ALERT: ID #89 stationary for 105.3s in VIP Lobby
+2026-09-21 16:27:39,INTRUSION,Restricted Perimeter,zone_restricted,72,43.2,0.845,X:\security\database/snapshots\snap_1790022459_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:27:41,LOITERING,VIP Lobby,zone_lobby,103,31.7,0.79,X:\security\database/snapshots\snap_1790022461_id103_loitering.jpg,LOITERING ALERT: ID #103 stationary for 31.7s in VIP Lobby
+2026-09-21 16:27:41,INTRUSION,Restricted Perimeter,zone_restricted,91,74.5,0.655,X:\security\database/snapshots\snap_1790022461_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:27:45,INTRUSION,Restricted Perimeter,zone_restricted,72,49.3,0.846,X:\security\database/snapshots\snap_1790022465_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:27:47,LOITERING,VIP Lobby,zone_lobby,89,113.7,0.865,X:\security\database/snapshots\snap_1790022467_id89_loitering.jpg,LOITERING ALERT: ID #89 stationary for 113.7s in VIP Lobby
+2026-09-21 16:27:47,INTRUSION,Restricted Perimeter,zone_restricted,91,80.6,0.655,X:\security\database/snapshots\snap_1790022467_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:27:49,LOITERING,VIP Lobby,zone_lobby,103,39.9,0.79,X:\security\database/snapshots\snap_1790022469_id103_loitering.jpg,LOITERING ALERT: ID #103 stationary for 39.9s in VIP Lobby
+2026-09-21 16:27:52,INTRUSION,Restricted Perimeter,zone_restricted,72,55.4,0.846,X:\security\database/snapshots\snap_1790022472_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:27:53,INTRUSION,Restricted Perimeter,zone_restricted,91,86.8,0.655,X:\security\database/snapshots\snap_1790022473_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:27:55,LOITERING,VIP Lobby,zone_lobby,89,121.7,0.865,X:\security\database/snapshots\snap_1790022475_id89_loitering.jpg,LOITERING ALERT: ID #89 stationary for 121.7s in VIP Lobby
+2026-09-21 16:27:57,LOITERING,VIP Lobby,zone_lobby,103,48.2,0.79,X:\security\database/snapshots\snap_1790022477_id103_loitering.jpg,LOITERING ALERT: ID #103 stationary for 48.2s in VIP Lobby
+2026-09-21 16:27:58,INTRUSION,Restricted Perimeter,zone_restricted,72,61.5,0.846,X:\security\database/snapshots\snap_1790022478_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:28:00,INTRUSION,Restricted Perimeter,zone_restricted,91,92.9,0.655,X:\security\database/snapshots\snap_1790022480_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:28:03,LOITERING,VIP Lobby,zone_lobby,89,129.8,0.865,X:\security\database/snapshots\snap_1790022483_id89_loitering.jpg,LOITERING ALERT: ID #89 stationary for 129.8s in VIP Lobby
+2026-09-21 16:28:04,INTRUSION,Restricted Perimeter,zone_restricted,72,67.5,0.846,X:\security\database/snapshots\snap_1790022484_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:28:05,LOITERING,VIP Lobby,zone_lobby,103,56.4,0.789,X:\security\database/snapshots\snap_1790022485_id103_loitering.jpg,LOITERING ALERT: ID #103 stationary for 56.4s in VIP Lobby
+2026-09-21 16:28:06,INTRUSION,Restricted Perimeter,zone_restricted,91,98.9,0.654,X:\security\database/snapshots\snap_1790022486_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:28:10,INTRUSION,Restricted Perimeter,zone_restricted,72,73.7,0.846,X:\security\database/snapshots\snap_1790022490_id72_intrusion.jpg,INTRUSION DETECTED: ID #72 entered Restricted Perimeter
+2026-09-21 16:28:11,LOITERING,VIP Lobby,zone_lobby,89,137.9,0.865,X:\security\database/snapshots\snap_1790022491_id89_loitering.jpg,LOITERING ALERT: ID #89 stationary for 137.9s in VIP Lobby
+2026-09-21 16:28:12,INTRUSION,Restricted Perimeter,zone_restricted,91,105.0,0.654,X:\security\database/snapshots\snap_1790022492_id91_intrusion.jpg,INTRUSION DETECTED: ID #91 entered Restricted Perimeter
+2026-09-21 16:28:14,LOITERING,VIP Lobby,zone_lobby,103,64.6,0.789,X:\security\database/snapshots\snap_1790022494_id103_loitering.jpg,LOITERING ALERT: ID #103 stationary for 64.6s in VIP Lobby
+2026-09-21 16:28:19,INTRUSION,Restricted Perimeter,zone_restricted,110,0.0,0.646,X:\security\database/snapshots\snap_1790022499_id110_intrusion.jpg,INTRUSION DETECTED: ID #110 entered Restricted Perimeter
+2026-09-21 16:28:23,LOITERING,VIP Lobby,zone_lobby,106,15.8,0.76,X:\security\database/snapshots\snap_1790022503_id106_loitering.jpg,LOITERING ALERT: ID #106 stationary for 15.8s in VIP Lobby
+2026-09-21 16:28:25,INTRUSION,Restricted Perimeter,zone_restricted,110,6.0,0.61,X:\security\database/snapshots\snap_1790022505_id110_intrusion.jpg,INTRUSION DETECTED: ID #110 entered Restricted Perimeter
+2026-09-21 16:28:31,INTRUSION,Restricted Perimeter,zone_restricted,110,12.1,0.634,X:\security\database/snapshots\snap_1790022511_id110_intrusion.jpg,INTRUSION DETECTED: ID #110 entered Restricted Perimeter
+2026-09-21 16:28:31,LOITERING,VIP Lobby,zone_lobby,106,23.9,0.831,X:\security\database/snapshots\snap_1790022511_id106_loitering.jpg,LOITERING ALERT: ID #106 stationary for 23.9s in VIP Lobby
+2026-09-21 16:28:39,INTRUSION,Restricted Perimeter,zone_restricted,109,0.0,0.623,X:\security\database/snapshots\snap_1790022519_id109_intrusion.jpg,INTRUSION DETECTED: ID #109 entered Restricted Perimeter
+2026-09-21 16:28:39,LOITERING,VIP Lobby,zone_lobby,106,31.9,0.776,X:\security\database/snapshots\snap_1790022519_id106_loitering.jpg,LOITERING ALERT: ID #106 stationary for 31.9s in VIP Lobby
+2026-09-21 16:28:41,INTRUSION,Restricted Perimeter,zone_restricted,112,0.0,0.797,X:\security\database/snapshots\snap_1790022521_id112_intrusion.jpg,INTRUSION DETECTED: ID #112 entered Restricted Perimeter
+2026-09-21 16:28:41,INTRUSION,Restricted Perimeter,zone_restricted,117,0.0,0.614,X:\security\database/snapshots\snap_1790022521_id117_intrusion.jpg,INTRUSION DETECTED: ID #117 entered Restricted Perimeter
+2026-09-21 16:28:47,INTRUSION,Restricted Perimeter,zone_restricted,112,6.1,0.737,X:\security\database/snapshots\snap_1790022527_id112_intrusion.jpg,INTRUSION DETECTED: ID #112 entered Restricted Perimeter
+2026-09-21 16:28:47,INTRUSION,Restricted Perimeter,zone_restricted,117,6.1,0.654,X:\security\database/snapshots\snap_1790022527_id117_intrusion.jpg,INTRUSION DETECTED: ID #117 entered Restricted Perimeter
+2026-09-21 16:28:47,LOITERING,VIP Lobby,zone_lobby,106,40.0,0.831,X:\security\database/snapshots\snap_1790022527_id106_loitering.jpg,LOITERING ALERT: ID #106 stationary for 40.0s in VIP Lobby
+2026-09-21 16:28:53,INTRUSION,Restricted Perimeter,zone_restricted,112,12.1,0.603,X:\security\database/snapshots\snap_1790022533_id112_intrusion.jpg,INTRUSION DETECTED: ID #112 entered Restricted Perimeter
+2026-09-21 16:28:53,INTRUSION,Restricted Perimeter,zone_restricted,117,12.1,0.665,X:\security\database/snapshots\snap_1790022533_id117_intrusion.jpg,INTRUSION DETECTED: ID #117 entered Restricted Perimeter
+2026-09-21 16:28:56,LOITERING,VIP Lobby,zone_lobby,106,48.0,0.871,X:\security\database/snapshots\snap_1790022536_id106_loitering.jpg,LOITERING ALERT: ID #106 stationary for 48.0s in VIP Lobby
+2026-09-21 16:28:59,INTRUSION,Restricted Perimeter,zone_restricted,112,18.3,0.603,X:\security\database/snapshots\snap_1790022539_id112_intrusion.jpg,INTRUSION DETECTED: ID #112 entered Restricted Perimeter
+2026-09-21 16:28:59,INTRUSION,Restricted Perimeter,zone_restricted,117,18.3,0.632,X:\security\database/snapshots\snap_1790022539_id117_intrusion.jpg,INTRUSION DETECTED: ID #117 entered Restricted Perimeter
+2026-09-21 16:29:02,LOITERING,VIP Lobby,zone_lobby,115,15.7,0.801,X:\security\database/snapshots\snap_1790022542_id115_loitering.jpg,LOITERING ALERT: ID #115 stationary for 15.7s in VIP Lobby
+2026-09-21 16:29:04,LOITERING,VIP Lobby,zone_lobby,106,56.0,0.774,X:\security\database/snapshots\snap_1790022544_id106_loitering.jpg,LOITERING ALERT: ID #106 stationary for 56.0s in VIP Lobby
+2026-09-21 16:29:04,INTRUSION,Restricted Perimeter,zone_restricted,118,0.0,0.603,X:\security\database/snapshots\snap_1790022544_id118_intrusion.jpg,INTRUSION DETECTED: ID #118 entered Restricted Perimeter
+2026-09-21 16:29:05,INTRUSION,Restricted Perimeter,zone_restricted,117,24.3,0.644,X:\security\database/snapshots\snap_1790022545_id117_intrusion.jpg,INTRUSION DETECTED: ID #117 entered Restricted Perimeter
+2026-09-21 16:29:10,INTRUSION,Restricted Perimeter,zone_restricted,118,6.2,0.67,X:\security\database/snapshots\snap_1790022550_id118_intrusion.jpg,INTRUSION DETECTED: ID #118 entered Restricted Perimeter
+2026-09-21 16:29:11,LOITERING,VIP Lobby,zone_lobby,115,23.9,0.822,X:\security\database/snapshots\snap_1790022551_id115_loitering.jpg,LOITERING ALERT: ID #115 stationary for 23.9s in VIP Lobby
+2026-09-21 16:29:12,LOITERING,VIP Lobby,zone_lobby,106,64.1,0.675,X:\security\database/snapshots\snap_1790022552_id106_loitering.jpg,LOITERING ALERT: ID #106 stationary for 64.1s in VIP Lobby
+2026-09-21 16:29:12,INTRUSION,Restricted Perimeter,zone_restricted,117,30.5,0.617,X:\security\database/snapshots\snap_1790022552_id117_intrusion.jpg,INTRUSION DETECTED: ID #117 entered Restricted Perimeter
+2026-09-21 16:29:16,INTRUSION,Restricted Perimeter,zone_restricted,118,12.4,0.651,X:\security\database/snapshots\snap_1790022556_id118_intrusion.jpg,INTRUSION DETECTED: ID #118 entered Restricted Perimeter
+2026-09-21 16:29:19,LOITERING,VIP Lobby,zone_lobby,115,32.0,0.613,X:\security\database/snapshots\snap_1790022559_id115_loitering.jpg,LOITERING ALERT: ID #115 stationary for 32.0s in VIP Lobby
+2026-09-21 16:29:20,LOITERING,VIP Lobby,zone_lobby,106,72.2,0.744,X:\security\database/snapshots\snap_1790022560_id106_loitering.jpg,LOITERING ALERT: ID #106 stationary for 72.2s in VIP Lobby
+2026-09-21 16:29:22,LOITERING,VIP Lobby,zone_lobby,114,15.7,0.689,X:\security\database/snapshots\snap_1790022562_id114_loitering.jpg,LOITERING ALERT: ID #114 stationary for 15.7s in VIP Lobby
+2026-09-21 16:29:23,INTRUSION,Restricted Perimeter,zone_restricted,118,18.6,0.612,X:\security\database/snapshots\snap_1790022563_id118_intrusion.jpg,INTRUSION DETECTED: ID #118 entered Restricted Perimeter
+2026-09-21 16:29:28,INTRUSION,Restricted Perimeter,zone_restricted,126,0.0,0.832,X:\security\database/snapshots\snap_1790022568_id126_intrusion.jpg,INTRUSION DETECTED: ID #126 entered Restricted Perimeter
+2026-09-21 16:29:31,INTRUSION,Restricted Perimeter,zone_restricted,127,0.0,0.703,X:\security\database/snapshots\snap_1790022571_id127_intrusion.jpg,INTRUSION DETECTED: ID #127 entered Restricted Perimeter
+2026-09-21 16:29:37,INTRUSION,Restricted Perimeter,zone_restricted,127,6.2,0.616,X:\security\database/snapshots\snap_1790022577_id127_intrusion.jpg,INTRUSION DETECTED: ID #127 entered Restricted Perimeter
+2026-09-21 16:29:40,LOITERING,VIP Lobby,zone_lobby,113,15.6,0.82,X:\security\database/snapshots\snap_1790022580_id113_loitering.jpg,LOITERING ALERT: ID #113 stationary for 15.6s in VIP Lobby
+2026-09-21 16:29:43,INTRUSION,Restricted Perimeter,zone_restricted,127,12.4,0.617,X:\security\database/snapshots\snap_1790022583_id127_intrusion.jpg,INTRUSION DETECTED: ID #127 entered Restricted Perimeter
+2026-09-21 16:29:47,LOITERING,VIP Lobby,zone_lobby,128,15.7,0.613,X:\security\database/snapshots\snap_1790022587_id128_loitering.jpg,LOITERING ALERT: ID #128 stationary for 15.7s in VIP Lobby
+2026-09-21 16:29:49,INTRUSION,Restricted Perimeter,zone_restricted,127,18.4,0.672,X:\security\database/snapshots\snap_1790022589_id127_intrusion.jpg,INTRUSION DETECTED: ID #127 entered Restricted Perimeter
+2026-09-21 16:29:49,INTRUSION,Restricted Perimeter,zone_restricted,131,0.0,0.604,X:\security\database/snapshots\snap_1790022589_id131_intrusion.jpg,INTRUSION DETECTED: ID #131 entered Restricted Perimeter
+2026-09-21 16:29:51,LOITERING,VIP Lobby,zone_lobby,129,15.6,0.714,X:\security\database/snapshots\snap_1790022591_id129_loitering.jpg,LOITERING ALERT: ID #129 stationary for 15.6s in VIP Lobby
+2026-09-21 16:29:54,INTRUSION,Restricted Perimeter,zone_restricted,126,0.0,0.882,X:\security\database/snapshots\snap_1790022594_id126_intrusion.jpg,INTRUSION DETECTED: ID #126 entered Restricted Perimeter
+2026-09-21 16:29:56,INTRUSION,Restricted Perimeter,zone_restricted,127,24.6,0.671,X:\security\database/snapshots\snap_1790022596_id127_intrusion.jpg,INTRUSION DETECTED: ID #127 entered Restricted Perimeter
+2026-09-21 16:29:58,INTRUSION,Restricted Perimeter,zone_restricted,131,0.0,0.772,X:\security\database/snapshots\snap_1790022598_id131_intrusion.jpg,INTRUSION DETECTED: ID #131 entered Restricted Perimeter
+2026-09-21 16:29:59,LOITERING,VIP Lobby,zone_lobby,129,23.8,0.719,X:\security\database/snapshots\snap_1790022599_id129_loitering.jpg,LOITERING ALERT: ID #129 stationary for 23.8s in VIP Lobby
+2026-09-21 16:30:00,INTRUSION,Restricted Perimeter,zone_restricted,126,6.2,0.893,X:\security\database/snapshots\snap_1790022600_id126_intrusion.jpg,INTRUSION DETECTED: ID #126 entered Restricted Perimeter
+2026-09-21 16:30:02,INTRUSION,Restricted Perimeter,zone_restricted,127,30.7,0.603,X:\security\database/snapshots\snap_1790022602_id127_intrusion.jpg,INTRUSION DETECTED: ID #127 entered Restricted Perimeter
+2026-09-21 16:30:04,INTRUSION,Restricted Perimeter,zone_restricted,131,6.1,0.776,X:\security\database/snapshots\snap_1790022604_id131_intrusion.jpg,INTRUSION DETECTED: ID #131 entered Restricted Perimeter
+2026-09-21 16:30:06,INTRUSION,Restricted Perimeter,zone_restricted,126,12.3,0.863,X:\security\database/snapshots\snap_1790022606_id126_intrusion.jpg,INTRUSION DETECTED: ID #126 entered Restricted Perimeter
+2026-09-21 16:30:07,LOITERING,VIP Lobby,zone_lobby,129,31.9,0.647,X:\security\database/snapshots\snap_1790022607_id129_loitering.jpg,LOITERING ALERT: ID #129 stationary for 31.9s in VIP Lobby
+2026-09-21 16:30:08,INTRUSION,Restricted Perimeter,zone_restricted,127,36.8,0.63,X:\security\database/snapshots\snap_1790022608_id127_intrusion.jpg,INTRUSION DETECTED: ID #127 entered Restricted Perimeter
+2026-09-21 16:30:10,INTRUSION,Restricted Perimeter,zone_restricted,131,12.3,0.669,X:\security\database/snapshots\snap_1790022610_id131_intrusion.jpg,INTRUSION DETECTED: ID #131 entered Restricted Perimeter
+2026-09-21 16:30:16,LOITERING,VIP Lobby,zone_lobby,129,40.5,0.647,X:\security\database/snapshots\snap_1790022616_id129_loitering.jpg,LOITERING ALERT: ID #129 stationary for 40.5s in VIP Lobby
+2026-09-21 16:30:16,INTRUSION,Restricted Perimeter,zone_restricted,131,18.3,0.762,X:\security\database/snapshots\snap_1790022616_id131_intrusion.jpg,INTRUSION DETECTED: ID #131 entered Restricted Perimeter
+2026-09-21 16:30:19,INTRUSION,Restricted Perimeter,zone_restricted,135,0.0,0.611,X:\security\database/snapshots\snap_1790022619_id135_intrusion.jpg,INTRUSION DETECTED: ID #135 entered Restricted Perimeter
+2026-09-21 16:30:23,INTRUSION,Restricted Perimeter,zone_restricted,131,24.6,0.782,X:\security\database/snapshots\snap_1790022623_id131_intrusion.jpg,INTRUSION DETECTED: ID #131 entered Restricted Perimeter
+2026-09-21 16:30:25,INTRUSION,Restricted Perimeter,zone_restricted,135,6.1,0.607,X:\security\database/snapshots\snap_1790022625_id135_intrusion.jpg,INTRUSION DETECTED: ID #135 entered Restricted Perimeter
+2026-09-21 16:30:29,INTRUSION,Restricted Perimeter,zone_restricted,131,30.8,0.706,X:\security\database/snapshots\snap_1790022629_id131_intrusion.jpg,INTRUSION DETECTED: ID #131 entered Restricted Perimeter
+2026-09-21 16:30:31,INTRUSION,Restricted Perimeter,zone_restricted,135,12.1,0.607,X:\security\database/snapshots\snap_1790022631_id135_intrusion.jpg,INTRUSION DETECTED: ID #135 entered Restricted Perimeter
+2026-09-21 16:30:35,INTRUSION,Restricted Perimeter,zone_restricted,131,36.9,0.82,X:\security\database/snapshots\snap_1790022635_id131_intrusion.jpg,INTRUSION DETECTED: ID #131 entered Restricted Perimeter
+2026-09-21 16:30:36,LOITERING,VIP Lobby,zone_lobby,134,15.5,0.655,X:\security\database/snapshots\snap_1790022636_id134_loitering.jpg,LOITERING ALERT: ID #134 stationary for 15.5s in VIP Lobby
+2026-09-21 16:30:41,INTRUSION,Restricted Perimeter,zone_restricted,131,43.0,0.777,X:\security\database/snapshots\snap_1790022641_id131_intrusion.jpg,INTRUSION DETECTED: ID #131 entered Restricted Perimeter
+2026-09-21 16:30:44,LOITERING,VIP Lobby,zone_lobby,134,23.7,0.631,X:\security\database/snapshots\snap_1790022644_id134_loitering.jpg,LOITERING ALERT: ID #134 stationary for 23.7s in VIP Lobby
+2026-09-21 16:30:47,INTRUSION,Restricted Perimeter,zone_restricted,131,49.3,0.686,X:\security\database/snapshots\snap_1790022647_id131_intrusion.jpg,INTRUSION DETECTED: ID #131 entered Restricted Perimeter
+2026-09-21 16:30:52,INTRUSION,Restricted Perimeter,zone_restricted,145,0.0,0.687,X:\security\database/snapshots\snap_1790022652_id145_intrusion.jpg,INTRUSION DETECTED: ID #145 entered Restricted Perimeter
+2026-09-21 16:30:52,LOITERING,VIP Lobby,zone_lobby,134,31.7,0.64,X:\security\database/snapshots\snap_1790022652_id134_loitering.jpg,LOITERING ALERT: ID #134 stationary for 31.7s in VIP Lobby
+2026-09-23 11:39:18,INTRUSION,Restricted Perimeter,zone_restricted,2,0.0,0.585,X:\security\database/snapshots\snap_1790177958_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-23 11:39:22,LOITERING,VIP Lobby,zone_lobby,1,4.0,0.81,X:\security\database/snapshots\snap_1790177962_id1_loitering.jpg,LOITERING ALERT: ID #1 stationary for 4.0s in VIP Lobby
+2026-09-23 11:39:24,INTRUSION,Restricted Perimeter,zone_restricted,2,6.0,0.572,X:\security\database/snapshots\snap_1790177964_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-23 11:39:30,LOITERING,VIP Lobby,zone_lobby,1,12.2,0.869,X:\security\database/snapshots\snap_1790177970_id1_loitering.jpg,LOITERING ALERT: ID #1 stationary for 12.2s in VIP Lobby
+2026-09-23 11:39:30,INTRUSION,Restricted Perimeter,zone_restricted,2,12.2,0.479,X:\security\database/snapshots\snap_1790177970_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-23 11:39:32,LOITERING,VIP Lobby,zone_lobby,4,4.1,0.473,X:\security\database/snapshots\snap_1790177972_id4_loitering.jpg,LOITERING ALERT: ID #4 stationary for 4.1s in VIP Lobby
+2026-09-23 11:39:34,INTRUSION,Restricted Perimeter,zone_restricted,16,0.0,0.684,X:\security\database/snapshots\snap_1790177974_id16_intrusion.jpg,INTRUSION DETECTED: ID #16 entered Restricted Perimeter
+2026-09-23 11:39:37,INTRUSION,Restricted Perimeter,zone_restricted,2,18.3,0.441,X:\security\database/snapshots\snap_1790177977_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-23 11:39:38,INTRUSION,Restricted Perimeter,zone_restricted,6,0.0,0.697,X:\security\database/snapshots\snap_1790177978_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-23 11:39:39,LOITERING,VIP Lobby,zone_lobby,1,20.3,0.769,X:\security\database/snapshots\snap_1790177979_id1_loitering.jpg,LOITERING ALERT: ID #1 stationary for 20.3s in VIP Lobby
+2026-09-23 11:39:39,LOITERING,VIP Lobby,zone_lobby,3,4.2,0.453,X:\security\database/snapshots\snap_1790177979_id3_loitering.jpg,LOITERING ALERT: ID #3 stationary for 4.2s in VIP Lobby
+2026-09-23 11:39:40,LOITERING,VIP Lobby,zone_lobby,4,12.2,0.678,X:\security\database/snapshots\snap_1790177980_id4_loitering.jpg,LOITERING ALERT: ID #4 stationary for 12.2s in VIP Lobby
+2026-09-23 11:39:40,INTRUSION,Restricted Perimeter,zone_restricted,16,3.9,0.421,X:\security\database/snapshots\snap_1790177980_id16_intrusion.jpg,INTRUSION DETECTED: ID #16 entered Restricted Perimeter
+2026-09-23 11:39:41,LOITERING,VIP Lobby,zone_lobby,19,4.1,0.45,X:\security\database/snapshots\snap_1790177981_id19_loitering.jpg,LOITERING ALERT: ID #19 stationary for 4.1s in VIP Lobby
+2026-09-23 11:39:43,INTRUSION,Restricted Perimeter,zone_restricted,2,24.4,0.501,X:\security\database/snapshots\snap_1790177983_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-23 11:39:44,LOITERING,VIP Lobby,zone_lobby,22,4.1,0.609,X:\security\database/snapshots\snap_1790177984_id22_loitering.jpg,LOITERING ALERT: ID #22 stationary for 4.1s in VIP Lobby
+2026-09-23 11:39:44,INTRUSION,Restricted Perimeter,zone_restricted,6,0.0,0.749,X:\security\database/snapshots\snap_1790177984_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-23 11:39:46,LOITERING,VIP Lobby,zone_lobby,21,4.1,0.839,X:\security\database/snapshots\snap_1790177986_id21_loitering.jpg,LOITERING ALERT: ID #21 stationary for 4.1s in VIP Lobby
+2026-09-23 11:39:47,LOITERING,VIP Lobby,zone_lobby,1,28.5,0.87,X:\security\database/snapshots\snap_1790177987_id1_loitering.jpg,LOITERING ALERT: ID #1 stationary for 28.5s in VIP Lobby
+2026-09-23 11:39:49,INTRUSION,Restricted Perimeter,zone_restricted,2,30.4,0.574,X:\security\database/snapshots\snap_1790177989_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-23 11:39:50,INTRUSION,Restricted Perimeter,zone_restricted,6,6.1,0.429,X:\security\database/snapshots\snap_1790177990_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-23 11:39:54,LOITERING,VIP Lobby,zone_lobby,21,12.3,0.799,X:\security\database/snapshots\snap_1790177994_id21_loitering.jpg,LOITERING ALERT: ID #21 stationary for 12.3s in VIP Lobby
+2026-09-23 11:39:55,INTRUSION,Restricted Perimeter,zone_restricted,2,36.5,0.528,X:\security\database/snapshots\snap_1790177995_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-23 11:39:55,LOITERING,VIP Lobby,zone_lobby,1,36.7,0.774,X:\security\database/snapshots\snap_1790177995_id1_loitering.jpg,LOITERING ALERT: ID #1 stationary for 36.7s in VIP Lobby
+2026-09-23 11:39:55,LOITERING,VIP Lobby,zone_lobby,28,4.1,0.5,X:\security\database/snapshots\snap_1790177995_id28_loitering.jpg,LOITERING ALERT: ID #28 stationary for 4.1s in VIP Lobby
+2026-09-23 11:39:57,INTRUSION,Restricted Perimeter,zone_restricted,6,4.2,0.603,X:\security\database/snapshots\snap_1790177997_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-23 11:40:01,INTRUSION,Restricted Perimeter,zone_restricted,2,42.5,0.431,X:\security\database/snapshots\snap_1790178001_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-23 11:40:01,INTRUSION,Restricted Perimeter,zone_restricted,34,0.0,0.472,X:\security\database/snapshots\snap_1790178001_id34_intrusion.jpg,INTRUSION DETECTED: ID #34 entered Restricted Perimeter
+2026-09-23 11:40:02,LOITERING,VIP Lobby,zone_lobby,21,20.4,0.507,X:\security\database/snapshots\snap_1790178002_id21_loitering.jpg,LOITERING ALERT: ID #21 stationary for 20.4s in VIP Lobby
+2026-09-23 11:40:03,INTRUSION,Restricted Perimeter,zone_restricted,6,10.3,0.601,X:\security\database/snapshots\snap_1790178003_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-23 11:40:03,LOITERING,VIP Lobby,zone_lobby,1,44.8,0.64,X:\security\database/snapshots\snap_1790178003_id1_loitering.jpg,LOITERING ALERT: ID #1 stationary for 44.8s in VIP Lobby
+2026-09-23 11:40:04,LOITERING,VIP Lobby,zone_lobby,28,7.1,0.78,X:\security\database/snapshots\snap_1790178004_id28_loitering.jpg,LOITERING ALERT: ID #28 stationary for 7.1s in VIP Lobby
+2026-09-23 11:40:04,LOITERING,VIP Lobby,zone_lobby,33,4.1,0.421,X:\security\database/snapshots\snap_1790178004_id33_loitering.jpg,LOITERING ALERT: ID #33 stationary for 4.1s in VIP Lobby
+2026-09-23 11:40:07,INTRUSION,Restricted Perimeter,zone_restricted,2,48.6,0.59,X:\security\database/snapshots\snap_1790178007_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-23 11:40:07,INTRUSION,Restricted Perimeter,zone_restricted,34,6.1,0.405,X:\security\database/snapshots\snap_1790178007_id34_intrusion.jpg,INTRUSION DETECTED: ID #34 entered Restricted Perimeter
+2026-09-23 11:40:09,INTRUSION,Restricted Perimeter,zone_restricted,43,0.0,0.62,X:\security\database/snapshots\snap_1790178009_id43_intrusion.jpg,INTRUSION DETECTED: ID #43 entered Restricted Perimeter
+2026-09-23 11:40:10,INTRUSION,Restricted Perimeter,zone_restricted,44,0.0,0.769,X:\security\database/snapshots\snap_1790178010_id44_intrusion.jpg,INTRUSION DETECTED: ID #44 entered Restricted Perimeter
+2026-09-23 11:40:11,INTRUSION,Restricted Perimeter,zone_restricted,6,0.0,0.555,X:\security\database/snapshots\snap_1790178011_id6_intrusion.jpg,INTRUSION DETECTED: ID #6 entered Restricted Perimeter
+2026-09-23 11:40:12,LOITERING,VIP Lobby,zone_lobby,13,4.1,0.851,X:\security\database/snapshots\snap_1790178012_id13_loitering.jpg,LOITERING ALERT: ID #13 stationary for 4.1s in VIP Lobby
+2026-09-23 11:40:13,INTRUSION,Restricted Perimeter,zone_restricted,2,54.7,0.518,X:\security\database/snapshots\snap_1790178013_id2_intrusion.jpg,INTRUSION DETECTED: ID #2 entered Restricted Perimeter
+2026-09-23 11:40:13,INTRUSION,Restricted Perimeter,zone_restricted,46,0.0,0.432,X:\security\database/snapshots\snap_1790178013_id46_intrusion.jpg,INTRUSION DETECTED: ID #46 entered Restricted Perimeter
+2026-09-23 11:40:14,LOITERING,VIP Lobby,zone_lobby,9,4.1,0.651,X:\security\database/snapshots\snap_1790178014_id9_loitering.jpg,LOITERING ALERT: ID #9 stationary for 4.1s in VIP Lobby
+2026-09-23 11:40:14,LOITERING,VIP Lobby,zone_lobby,33,4.2,0.505,X:\security\database/snapshots\snap_1790178014_id33_loitering.jpg,LOITERING ALERT: ID #33 stationary for 4.2s in VIP Lobby
+2026-09-23 11:40:19,INTRUSION,Restricted Perimeter,zone_restricted,48,0.0,0.483,X:\security\database/snapshots\snap_1790178019_id48_intrusion.jpg,INTRUSION DETECTED: ID #48 entered Restricted Perimeter
+2026-09-23 11:40:19,INTRUSION,Restricted Perimeter,zone_restricted,46,6.1,0.435,X:\security\database/snapshots\snap_1790178019_id46_intrusion.jpg,INTRUSION DETECTED: ID #46 entered Restricted Perimeter
+2026-09-23 11:40:20,LOITERING,VIP Lobby,zone_lobby,13,12.2,0.753,X:\security\database/snapshots\snap_1790178020_id13_loitering.jpg,LOITERING ALERT: ID #13 stationary for 12.2s in VIP Lobby
+2026-09-23 11:40:22,LOITERING,VIP Lobby,zone_lobby,9,12.3,0.598,X:\security\database/snapshots\snap_1790178022_id9_loitering.jpg,LOITERING ALERT: ID #9 stationary for 12.3s in VIP Lobby
+2026-09-23 11:40:24,INTRUSION,Restricted Perimeter,zone_restricted,44,0.0,0.89,X:\security\database/snapshots\snap_1790178024_id44_intrusion.jpg,INTRUSION DETECTED: ID #44 entered Restricted Perimeter
+2026-09-23 11:40:25,INTRUSION,Restricted Perimeter,zone_restricted,48,2.8,0.612,X:\security\database/snapshots\snap_1790178025_id48_intrusion.jpg,INTRUSION DETECTED: ID #48 entered Restricted Perimeter
+2026-09-23 11:40:25,INTRUSION,Restricted Perimeter,zone_restricted,46,12.2,0.493,X:\security\database/snapshots\snap_1790178025_id46_intrusion.jpg,INTRUSION DETECTED: ID #46 entered Restricted Perimeter
+2026-09-23 11:40:28,LOITERING,VIP Lobby,zone_lobby,13,20.2,0.462,X:\security\database/snapshots\snap_1790178028_id13_loitering.jpg,LOITERING ALERT: ID #13 stationary for 20.2s in VIP Lobby
+2026-09-23 11:40:30,INTRUSION,Restricted Perimeter,zone_restricted,44,6.1,0.783,X:\security\database/snapshots\snap_1790178030_id44_intrusion.jpg,INTRUSION DETECTED: ID #44 entered Restricted Perimeter
+2026-09-23 11:40:31,INTRUSION,Restricted Perimeter,zone_restricted,48,8.9,0.543,X:\security\database/snapshots\snap_1790178031_id48_intrusion.jpg,INTRUSION DETECTED: ID #48 entered Restricted Perimeter
+2026-09-23 11:40:31,INTRUSION,Restricted Perimeter,zone_restricted,46,3.7,0.72,X:\security\database/snapshots\snap_1790178031_id46_intrusion.jpg,INTRUSION DETECTED: ID #46 entered Restricted Perimeter
+2026-09-23 11:40:37,INTRUSION,Restricted Perimeter,zone_restricted,48,15.0,0.569,X:\security\database/snapshots\snap_1790178037_id48_intrusion.jpg,INTRUSION DETECTED: ID #48 entered Restricted Perimeter
+2026-09-23 11:40:37,INTRUSION,Restricted Perimeter,zone_restricted,46,9.8,0.652,X:\security\database/snapshots\snap_1790178037_id46_intrusion.jpg,INTRUSION DETECTED: ID #46 entered Restricted Perimeter
+2026-09-23 11:40:40,LOITERING,VIP Lobby,zone_lobby,51,4.0,0.648,X:\security\database/snapshots\snap_1790178040_id51_loitering.jpg,LOITERING ALERT: ID #51 stationary for 4.0s in VIP Lobby
+2026-09-23 11:40:43,INTRUSION,Restricted Perimeter,zone_restricted,48,21.1,0.403,X:\security\database/snapshots\snap_1790178043_id48_intrusion.jpg,INTRUSION DETECTED: ID #48 entered Restricted Perimeter
+2026-09-23 11:40:44,INTRUSION,Restricted Perimeter,zone_restricted,46,15.9,0.728,X:\security\database/snapshots\snap_1790178044_id46_intrusion.jpg,INTRUSION DETECTED: ID #46 entered Restricted Perimeter
+2026-09-23 11:40:46,INTRUSION,Restricted Perimeter,zone_restricted,52,0.0,0.763,X:\security\database/snapshots\snap_1790178046_id52_intrusion.jpg,INTRUSION DETECTED: ID #52 entered Restricted Perimeter
+2026-09-23 11:40:48,LOITERING,VIP Lobby,zone_lobby,51,12.0,0.64,X:\security\database/snapshots\snap_1790178048_id51_loitering.jpg,LOITERING ALERT: ID #51 stationary for 12.0s in VIP Lobby
+2026-09-23 11:40:49,INTRUSION,Restricted Perimeter,zone_restricted,48,27.1,0.464,X:\security\database/snapshots\snap_1790178049_id48_intrusion.jpg,INTRUSION DETECTED: ID #48 entered Restricted Perimeter
+2026-09-23 11:40:50,INTRUSION,Restricted Perimeter,zone_restricted,46,21.9,0.595,X:\security\database/snapshots\snap_1790178050_id46_intrusion.jpg,INTRUSION DETECTED: ID #46 entered Restricted Perimeter
+2026-09-23 11:40:51,LOITERING,VIP Lobby,zone_lobby,13,4.1,0.574,X:\security\database/snapshots\snap_1790178051_id13_loitering.jpg,LOITERING ALERT: ID #13 stationary for 4.1s in VIP Lobby
+2026-09-23 11:40:53,INTRUSION,Restricted Perimeter,zone_restricted,57,0.0,0.406,X:\security\database/snapshots\snap_1790178053_id57_intrusion.jpg,INTRUSION DETECTED: ID #57 entered Restricted Perimeter
+2026-09-23 11:40:55,INTRUSION,Restricted Perimeter,zone_restricted,48,33.2,0.665,X:\security\database/snapshots\snap_1790178055_id48_intrusion.jpg,INTRUSION DETECTED: ID #48 entered Restricted Perimeter
+2026-09-23 11:40:56,LOITERING,VIP Lobby,zone_lobby,51,20.1,0.565,X:\security\database/snapshots\snap_1790178056_id51_loitering.jpg,LOITERING ALERT: ID #51 stationary for 20.1s in VIP Lobby
+2026-09-23 11:40:57,INTRUSION,Restricted Perimeter,zone_restricted,52,0.0,0.699,X:\security\database/snapshots\snap_1790178057_id52_intrusion.jpg,INTRUSION DETECTED: ID #52 entered Restricted Perimeter
+2026-09-23 11:40:58,INTRUSION,Restricted Perimeter,zone_restricted,62,0.0,0.444,X:\security\database/snapshots\snap_1790178058_id62_intrusion.jpg,INTRUSION DETECTED: ID #62 entered Restricted Perimeter
+2026-09-23 11:41:00,INTRUSION,Restricted Perimeter,zone_restricted,57,0.0,0.404,X:\security\database/snapshots\snap_1790178060_id57_intrusion.jpg,INTRUSION DETECTED: ID #57 entered Restricted Perimeter
+2026-09-23 11:41:01,INTRUSION,Restricted Perimeter,zone_restricted,48,39.3,0.403,X:\security\database/snapshots\snap_1790178061_id48_intrusion.jpg,INTRUSION DETECTED: ID #48 entered Restricted Perimeter
+2026-09-23 11:41:02,INTRUSION,Restricted Perimeter,zone_restricted,30,0.0,0.461,X:\security\database/snapshots\snap_1790178062_id30_intrusion.jpg,INTRUSION DETECTED: ID #30 entered Restricted Perimeter
+2026-09-23 11:41:03,INTRUSION,Restricted Perimeter,zone_restricted,52,6.1,0.737,X:\security\database/snapshots\snap_1790178063_id52_intrusion.jpg,INTRUSION DETECTED: ID #52 entered Restricted Perimeter
+2026-09-23 11:41:04,LOITERING,VIP Lobby,zone_lobby,51,28.2,0.474,X:\security\database/snapshots\snap_1790178064_id51_loitering.jpg,LOITERING ALERT: ID #51 stationary for 28.2s in VIP Lobby
+2026-09-23 11:41:06,INTRUSION,Restricted Perimeter,zone_restricted,57,1.7,0.439,X:\security\database/snapshots\snap_1790178066_id57_intrusion.jpg,INTRUSION DETECTED: ID #57 entered Restricted Perimeter
+2026-09-23 11:41:08,INTRUSION,Restricted Perimeter,zone_restricted,30,4.5,0.402,X:\security\database/snapshots\snap_1790178068_id30_intrusion.jpg,INTRUSION DETECTED: ID #30 entered Restricted Perimeter
+2026-09-23 11:41:08,INTRUSION,Restricted Perimeter,zone_restricted,48,0.0,0.778,X:\security\database/snapshots\snap_1790178068_id48_intrusion.jpg,INTRUSION DETECTED: ID #48 entered Restricted Perimeter
+2026-09-23 11:41:09,INTRUSION,Restricted Perimeter,zone_restricted,52,12.4,0.424,X:\security\database/snapshots\snap_1790178069_id52_intrusion.jpg,INTRUSION DETECTED: ID #52 entered Restricted Perimeter
+2026-09-23 11:41:09,INTRUSION,Restricted Perimeter,zone_restricted,58,0.0,0.576,X:\security\database/snapshots\snap_1790178069_id58_intrusion.jpg,INTRUSION DETECTED: ID #58 entered Restricted Perimeter
+2026-09-23 11:41:12,INTRUSION,Restricted Perimeter,zone_restricted,57,7.8,0.412,X:\security\database/snapshots\snap_1790178072_id57_intrusion.jpg,INTRUSION DETECTED: ID #57 entered Restricted Perimeter
+2026-09-23 11:41:12,LOITERING,VIP Lobby,zone_lobby,51,36.3,0.701,X:\security\database/snapshots\snap_1790178072_id51_loitering.jpg,LOITERING ALERT: ID #51 stationary for 36.3s in VIP Lobby
+2026-09-23 11:41:14,INTRUSION,Restricted Perimeter,zone_restricted,30,10.5,0.402,X:\security\database/snapshots\snap_1790178074_id30_intrusion.jpg,INTRUSION DETECTED: ID #30 entered Restricted Perimeter
+2026-09-23 11:41:16,INTRUSION,Restricted Perimeter,zone_restricted,58,6.1,0.422,X:\security\database/snapshots\snap_1790178076_id58_intrusion.jpg,INTRUSION DETECTED: ID #58 entered Restricted Perimeter
+2026-09-23 11:41:16,INTRUSION,Restricted Perimeter,zone_restricted,71,0.0,0.598,X:\security\database/snapshots\snap_1790178076_id71_intrusion.jpg,INTRUSION DETECTED: ID #71 entered Restricted Perimeter
+2026-09-23 11:41:16,INTRUSION,Restricted Perimeter,zone_restricted,48,0.0,0.401,X:\security\database/snapshots\snap_1790178076_id48_intrusion.jpg,INTRUSION DETECTED: ID #48 entered Restricted Perimeter
+2026-09-23 11:41:17,INTRUSION,Restricted Perimeter,zone_restricted,52,0.0,0.693,X:\security\database/snapshots\snap_1790178077_id52_intrusion.jpg,INTRUSION DETECTED: ID #52 entered Restricted Perimeter
+2026-09-23 11:41:17,INTRUSION,Restricted Perimeter,zone_restricted,73,0.0,0.413,X:\security\database/snapshots\snap_1790178077_id73_intrusion.jpg,INTRUSION DETECTED: ID #73 entered Restricted Perimeter
+2026-09-23 11:41:18,INTRUSION,Restricted Perimeter,zone_restricted,57,14.0,0.628,X:\security\database/snapshots\snap_1790178078_id57_intrusion.jpg,INTRUSION DETECTED: ID #57 entered Restricted Perimeter
+2026-09-23 11:41:20,INTRUSION,Restricted Perimeter,zone_restricted,76,0.0,0.732,X:\security\database/snapshots\snap_1790178080_id76_intrusion.jpg,INTRUSION DETECTED: ID #76 entered Restricted Perimeter
+2026-09-23 11:41:20,LOITERING,VIP Lobby,zone_lobby,13,4.1,0.442,X:\security\database/snapshots\snap_1790178080_id13_loitering.jpg,LOITERING ALERT: ID #13 stationary for 4.1s in VIP Lobby
+2026-09-23 11:41:20,LOITERING,VIP Lobby,zone_lobby,51,44.5,0.525,X:\security\database/snapshots\snap_1790178080_id51_loitering.jpg,LOITERING ALERT: ID #51 stationary for 44.5s in VIP Lobby
+2026-09-23 11:41:22,INTRUSION,Restricted Perimeter,zone_restricted,58,12.1,0.422,X:\security\database/snapshots\snap_1790178082_id58_intrusion.jpg,INTRUSION DETECTED: ID #58 entered Restricted Perimeter
+2026-09-23 11:41:22,INTRUSION,Restricted Perimeter,zone_restricted,71,6.1,0.493,X:\security\database/snapshots\snap_1790178082_id71_intrusion.jpg,INTRUSION DETECTED: ID #71 entered Restricted Perimeter
+2026-09-23 11:41:22,INTRUSION,Restricted Perimeter,zone_restricted,48,6.1,0.876,X:\security\database/snapshots\snap_1790178082_id48_intrusion.jpg,INTRUSION DETECTED: ID #48 entered Restricted Perimeter
+2026-09-23 11:41:23,INTRUSION,Restricted Perimeter,zone_restricted,52,0.0,0.486,X:\security\database/snapshots\snap_1790178083_id52_intrusion.jpg,INTRUSION DETECTED: ID #52 entered Restricted Perimeter
+2026-09-23 11:41:23,INTRUSION,Restricted Perimeter,zone_restricted,73,6.0,0.53,X:\security\database/snapshots\snap_1790178083_id73_intrusion.jpg,INTRUSION DETECTED: ID #73 entered Restricted Perimeter
+2026-09-23 11:41:24,INTRUSION,Restricted Perimeter,zone_restricted,57,0.3,0.481,X:\security\database/snapshots\snap_1790178084_id57_intrusion.jpg,INTRUSION DETECTED: ID #57 entered Restricted Perimeter
+2026-09-23 11:41:24,LOITERING,VIP Lobby,zone_lobby,75,4.0,0.844,X:\security\database/snapshots\snap_1790178084_id75_loitering.jpg,LOITERING ALERT: ID #75 stationary for 4.0s in VIP Lobby
+2026-09-23 11:41:26,INTRUSION,Restricted Perimeter,zone_restricted,76,6.2,0.82,X:\security\database/snapshots\snap_1790178086_id76_intrusion.jpg,INTRUSION DETECTED: ID #76 entered Restricted Perimeter
+2026-09-23 11:41:27,INTRUSION,Restricted Perimeter,zone_restricted,80,0.0,0.448,X:\security\database/snapshots\snap_1790178087_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:41:28,INTRUSION,Restricted Perimeter,zone_restricted,48,12.2,0.868,X:\security\database/snapshots\snap_1790178088_id48_intrusion.jpg,INTRUSION DETECTED: ID #48 entered Restricted Perimeter
+2026-09-23 11:41:29,LOITERING,VIP Lobby,zone_lobby,51,52.7,0.66,X:\security\database/snapshots\snap_1790178089_id51_loitering.jpg,LOITERING ALERT: ID #51 stationary for 52.7s in VIP Lobby
+2026-09-23 11:41:30,INTRUSION,Restricted Perimeter,zone_restricted,73,12.2,0.444,X:\security\database/snapshots\snap_1790178090_id73_intrusion.jpg,INTRUSION DETECTED: ID #73 entered Restricted Perimeter
+2026-09-23 11:41:30,INTRUSION,Restricted Perimeter,zone_restricted,57,6.4,0.406,X:\security\database/snapshots\snap_1790178090_id57_intrusion.jpg,INTRUSION DETECTED: ID #57 entered Restricted Perimeter
+2026-09-23 11:41:32,INTRUSION,Restricted Perimeter,zone_restricted,76,12.3,0.516,X:\security\database/snapshots\snap_1790178092_id76_intrusion.jpg,INTRUSION DETECTED: ID #76 entered Restricted Perimeter
+2026-09-23 11:41:33,INTRUSION,Restricted Perimeter,zone_restricted,80,6.0,0.413,X:\security\database/snapshots\snap_1790178093_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:41:34,INTRUSION,Restricted Perimeter,zone_restricted,48,18.3,0.832,X:\security\database/snapshots\snap_1790178094_id48_intrusion.jpg,INTRUSION DETECTED: ID #48 entered Restricted Perimeter
+2026-09-23 11:41:36,INTRUSION,Restricted Perimeter,zone_restricted,57,12.4,0.424,X:\security\database/snapshots\snap_1790178096_id57_intrusion.jpg,INTRUSION DETECTED: ID #57 entered Restricted Perimeter
+2026-09-23 11:41:37,LOITERING,VIP Lobby,zone_lobby,51,60.9,0.44,X:\security\database/snapshots\snap_1790178097_id51_loitering.jpg,LOITERING ALERT: ID #51 stationary for 60.9s in VIP Lobby
+2026-09-23 11:41:38,INTRUSION,Restricted Perimeter,zone_restricted,76,18.4,0.582,X:\security\database/snapshots\snap_1790178098_id76_intrusion.jpg,INTRUSION DETECTED: ID #76 entered Restricted Perimeter
+2026-09-23 11:41:40,INTRUSION,Restricted Perimeter,zone_restricted,80,12.1,0.416,X:\security\database/snapshots\snap_1790178100_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:41:40,INTRUSION,Restricted Perimeter,zone_restricted,48,24.3,0.867,X:\security\database/snapshots\snap_1790178100_id48_intrusion.jpg,INTRUSION DETECTED: ID #48 entered Restricted Perimeter
+2026-09-23 11:41:41,INTRUSION,Restricted Perimeter,zone_restricted,52,0.0,0.741,X:\security\database/snapshots\snap_1790178101_id52_intrusion.jpg,INTRUSION DETECTED: ID #52 entered Restricted Perimeter
+2026-09-23 11:41:42,INTRUSION,Restricted Perimeter,zone_restricted,88,0.0,0.725,X:\security\database/snapshots\snap_1790178102_id88_intrusion.jpg,INTRUSION DETECTED: ID #88 entered Restricted Perimeter
+2026-09-23 11:41:43,INTRUSION,Restricted Perimeter,zone_restricted,87,0.0,0.597,X:\security\database/snapshots\snap_1790178103_id87_intrusion.jpg,INTRUSION DETECTED: ID #87 entered Restricted Perimeter
+2026-09-23 11:41:44,INTRUSION,Restricted Perimeter,zone_restricted,76,2.6,0.552,X:\security\database/snapshots\snap_1790178104_id76_intrusion.jpg,INTRUSION DETECTED: ID #76 entered Restricted Perimeter
+2026-09-23 11:41:45,INTRUSION,Restricted Perimeter,zone_restricted,82,0.0,0.784,X:\security\database/snapshots\snap_1790178105_id82_intrusion.jpg,INTRUSION DETECTED: ID #82 entered Restricted Perimeter
+2026-09-23 11:41:45,INTRUSION,Restricted Perimeter,zone_restricted,89,0.0,0.496,X:\security\database/snapshots\snap_1790178105_id89_intrusion.jpg,INTRUSION DETECTED: ID #89 entered Restricted Perimeter
+2026-09-23 11:41:46,INTRUSION,Restricted Perimeter,zone_restricted,80,18.1,0.534,X:\security\database/snapshots\snap_1790178106_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:41:47,INTRUSION,Restricted Perimeter,zone_restricted,52,6.2,0.702,X:\security\database/snapshots\snap_1790178107_id52_intrusion.jpg,INTRUSION DETECTED: ID #52 entered Restricted Perimeter
+2026-09-23 11:41:49,INTRUSION,Restricted Perimeter,zone_restricted,88,6.1,0.726,X:\security\database/snapshots\snap_1790178109_id88_intrusion.jpg,INTRUSION DETECTED: ID #88 entered Restricted Perimeter
+2026-09-23 11:41:52,INTRUSION,Restricted Perimeter,zone_restricted,80,24.1,0.459,X:\security\database/snapshots\snap_1790178112_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:41:55,INTRUSION,Restricted Perimeter,zone_restricted,87,0.0,0.788,X:\security\database/snapshots\snap_1790178115_id87_intrusion.jpg,INTRUSION DETECTED: ID #87 entered Restricted Perimeter
+2026-09-23 11:41:55,INTRUSION,Restricted Perimeter,zone_restricted,88,12.1,0.718,X:\security\database/snapshots\snap_1790178115_id88_intrusion.jpg,INTRUSION DETECTED: ID #88 entered Restricted Perimeter
+2026-09-23 11:41:55,LOITERING,VIP Lobby,zone_lobby,90,4.2,0.506,X:\security\database/snapshots\snap_1790178115_id90_loitering.jpg,LOITERING ALERT: ID #90 stationary for 4.2s in VIP Lobby
+2026-09-23 11:41:56,LOITERING,VIP Lobby,zone_lobby,94,4.1,0.651,X:\security\database/snapshots\snap_1790178116_id94_loitering.jpg,LOITERING ALERT: ID #94 stationary for 4.1s in VIP Lobby
+2026-09-23 11:41:57,LOITERING,VIP Lobby,zone_lobby,95,4.1,0.618,X:\security\database/snapshots\snap_1790178117_id95_loitering.jpg,LOITERING ALERT: ID #95 stationary for 4.1s in VIP Lobby
+2026-09-23 11:41:58,INTRUSION,Restricted Perimeter,zone_restricted,80,30.2,0.483,X:\security\database/snapshots\snap_1790178118_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:42:00,INTRUSION,Restricted Perimeter,zone_restricted,98,0.0,0.519,X:\security\database/snapshots\snap_1790178120_id98_intrusion.jpg,INTRUSION DETECTED: ID #98 entered Restricted Perimeter
+2026-09-23 11:42:01,INTRUSION,Restricted Perimeter,zone_restricted,87,6.1,0.82,X:\security\database/snapshots\snap_1790178121_id87_intrusion.jpg,INTRUSION DETECTED: ID #87 entered Restricted Perimeter
+2026-09-23 11:42:01,INTRUSION,Restricted Perimeter,zone_restricted,88,18.2,0.57,X:\security\database/snapshots\snap_1790178121_id88_intrusion.jpg,INTRUSION DETECTED: ID #88 entered Restricted Perimeter
+2026-09-23 11:42:03,LOITERING,VIP Lobby,zone_lobby,90,12.2,0.465,X:\security\database/snapshots\snap_1790178123_id90_loitering.jpg,LOITERING ALERT: ID #90 stationary for 12.2s in VIP Lobby
+2026-09-23 11:42:04,INTRUSION,Restricted Perimeter,zone_restricted,80,36.2,0.415,X:\security\database/snapshots\snap_1790178124_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:42:06,INTRUSION,Restricted Perimeter,zone_restricted,48,0.0,0.817,X:\security\database/snapshots\snap_1790178126_id48_intrusion.jpg,INTRUSION DETECTED: ID #48 entered Restricted Perimeter
+2026-09-23 11:42:07,INTRUSION,Restricted Perimeter,zone_restricted,88,24.2,0.662,X:\security\database/snapshots\snap_1790178127_id88_intrusion.jpg,INTRUSION DETECTED: ID #88 entered Restricted Perimeter
+2026-09-23 11:42:10,INTRUSION,Restricted Perimeter,zone_restricted,80,42.3,0.447,X:\security\database/snapshots\snap_1790178130_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:42:10,INTRUSION,Restricted Perimeter,zone_restricted,102,0.0,0.402,X:\security\database/snapshots\snap_1790178130_id102_intrusion.jpg,INTRUSION DETECTED: ID #102 entered Restricted Perimeter
+2026-09-23 11:42:11,LOITERING,VIP Lobby,zone_lobby,90,20.2,0.602,X:\security\database/snapshots\snap_1790178131_id90_loitering.jpg,LOITERING ALERT: ID #90 stationary for 20.2s in VIP Lobby
+2026-09-23 11:42:12,INTRUSION,Restricted Perimeter,zone_restricted,103,0.0,0.491,X:\security\database/snapshots\snap_1790178132_id103_intrusion.jpg,INTRUSION DETECTED: ID #103 entered Restricted Perimeter
+2026-09-23 11:42:13,INTRUSION,Restricted Perimeter,zone_restricted,88,30.3,0.4,X:\security\database/snapshots\snap_1790178133_id88_intrusion.jpg,INTRUSION DETECTED: ID #88 entered Restricted Perimeter
+2026-09-23 11:42:15,INTRUSION,Restricted Perimeter,zone_restricted,87,0.0,0.682,X:\security\database/snapshots\snap_1790178135_id87_intrusion.jpg,INTRUSION DETECTED: ID #87 entered Restricted Perimeter
+2026-09-23 11:42:16,INTRUSION,Restricted Perimeter,zone_restricted,80,48.4,0.612,X:\security\database/snapshots\snap_1790178136_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:42:16,INTRUSION,Restricted Perimeter,zone_restricted,102,6.1,0.431,X:\security\database/snapshots\snap_1790178136_id102_intrusion.jpg,INTRUSION DETECTED: ID #102 entered Restricted Perimeter
+2026-09-23 11:42:18,INTRUSION,Restricted Perimeter,zone_restricted,103,6.0,0.811,X:\security\database/snapshots\snap_1790178138_id103_intrusion.jpg,INTRUSION DETECTED: ID #103 entered Restricted Perimeter
+2026-09-23 11:42:19,INTRUSION,Restricted Perimeter,zone_restricted,88,36.3,0.405,X:\security\database/snapshots\snap_1790178139_id88_intrusion.jpg,INTRUSION DETECTED: ID #88 entered Restricted Perimeter
+2026-09-23 11:42:19,LOITERING,VIP Lobby,zone_lobby,90,28.2,0.717,X:\security\database/snapshots\snap_1790178139_id90_loitering.jpg,LOITERING ALERT: ID #90 stationary for 28.2s in VIP Lobby
+2026-09-23 11:42:21,INTRUSION,Restricted Perimeter,zone_restricted,107,0.0,0.612,X:\security\database/snapshots\snap_1790178141_id107_intrusion.jpg,INTRUSION DETECTED: ID #107 entered Restricted Perimeter
+2026-09-23 11:42:21,INTRUSION,Restricted Perimeter,zone_restricted,87,1.3,0.563,X:\security\database/snapshots\snap_1790178141_id87_intrusion.jpg,INTRUSION DETECTED: ID #87 entered Restricted Perimeter
+2026-09-23 11:42:22,INTRUSION,Restricted Perimeter,zone_restricted,80,54.4,0.674,X:\security\database/snapshots\snap_1790178142_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:42:24,INTRUSION,Restricted Perimeter,zone_restricted,103,12.1,0.633,X:\security\database/snapshots\snap_1790178144_id103_intrusion.jpg,INTRUSION DETECTED: ID #103 entered Restricted Perimeter
+2026-09-23 11:42:27,LOITERING,VIP Lobby,zone_lobby,90,36.3,0.755,X:\security\database/snapshots\snap_1790178147_id90_loitering.jpg,LOITERING ALERT: ID #90 stationary for 36.3s in VIP Lobby
+2026-09-23 11:42:28,INTRUSION,Restricted Perimeter,zone_restricted,119,0.0,0.799,X:\security\database/snapshots\snap_1790178148_id119_intrusion.jpg,INTRUSION DETECTED: ID #119 entered Restricted Perimeter
+2026-09-23 11:42:28,INTRUSION,Restricted Perimeter,zone_restricted,80,0.0,0.657,X:\security\database/snapshots\snap_1790178148_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:42:30,INTRUSION,Restricted Perimeter,zone_restricted,103,18.2,0.682,X:\security\database/snapshots\snap_1790178150_id103_intrusion.jpg,INTRUSION DETECTED: ID #103 entered Restricted Perimeter
+2026-09-23 11:42:34,INTRUSION,Restricted Perimeter,zone_restricted,119,6.1,0.415,X:\security\database/snapshots\snap_1790178154_id119_intrusion.jpg,INTRUSION DETECTED: ID #119 entered Restricted Perimeter
+2026-09-23 11:42:34,INTRUSION,Restricted Perimeter,zone_restricted,80,6.2,0.694,X:\security\database/snapshots\snap_1790178154_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:42:35,LOITERING,VIP Lobby,zone_lobby,90,44.3,0.699,X:\security\database/snapshots\snap_1790178155_id90_loitering.jpg,LOITERING ALERT: ID #90 stationary for 44.3s in VIP Lobby
+2026-09-23 11:42:36,INTRUSION,Restricted Perimeter,zone_restricted,103,24.3,0.431,X:\security\database/snapshots\snap_1790178156_id103_intrusion.jpg,INTRUSION DETECTED: ID #103 entered Restricted Perimeter
+2026-09-23 11:42:40,INTRUSION,Restricted Perimeter,zone_restricted,80,12.3,0.729,X:\security\database/snapshots\snap_1790178160_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:42:41,INTRUSION,Restricted Perimeter,zone_restricted,130,0.0,0.702,X:\security\database/snapshots\snap_1790178161_id130_intrusion.jpg,INTRUSION DETECTED: ID #130 entered Restricted Perimeter
+2026-09-23 11:42:42,INTRUSION,Restricted Perimeter,zone_restricted,103,30.3,0.656,X:\security\database/snapshots\snap_1790178162_id103_intrusion.jpg,INTRUSION DETECTED: ID #103 entered Restricted Perimeter
+2026-09-23 11:42:42,INTRUSION,Restricted Perimeter,zone_restricted,127,0.0,0.722,X:\security\database/snapshots\snap_1790178162_id127_intrusion.jpg,INTRUSION DETECTED: ID #127 entered Restricted Perimeter
+2026-09-23 11:42:42,INTRUSION,Restricted Perimeter,zone_restricted,123,0.0,0.422,X:\security\database/snapshots\snap_1790178162_id123_intrusion.jpg,INTRUSION DETECTED: ID #123 entered Restricted Perimeter
+2026-09-23 11:42:44,LOITERING,VIP Lobby,zone_lobby,90,52.5,0.55,X:\security\database/snapshots\snap_1790178164_id90_loitering.jpg,LOITERING ALERT: ID #90 stationary for 52.5s in VIP Lobby
+2026-09-23 11:42:44,LOITERING,VIP Lobby,zone_lobby,126,4.1,0.818,X:\security\database/snapshots\snap_1790178164_id126_loitering.jpg,LOITERING ALERT: ID #126 stationary for 4.1s in VIP Lobby
+2026-09-23 11:42:47,INTRUSION,Restricted Perimeter,zone_restricted,80,18.4,0.506,X:\security\database/snapshots\snap_1790178167_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:42:47,INTRUSION,Restricted Perimeter,zone_restricted,130,6.0,0.645,X:\security\database/snapshots\snap_1790178167_id130_intrusion.jpg,INTRUSION DETECTED: ID #130 entered Restricted Perimeter
+2026-09-23 11:42:48,INTRUSION,Restricted Perimeter,zone_restricted,123,2.3,0.843,X:\security\database/snapshots\snap_1790178168_id123_intrusion.jpg,INTRUSION DETECTED: ID #123 entered Restricted Perimeter
+2026-09-23 11:42:51,INTRUSION,Restricted Perimeter,zone_restricted,136,0.0,0.755,X:\security\database/snapshots\snap_1790178171_id136_intrusion.jpg,INTRUSION DETECTED: ID #136 entered Restricted Perimeter
+2026-09-23 11:42:52,LOITERING,VIP Lobby,zone_lobby,126,12.1,0.643,X:\security\database/snapshots\snap_1790178172_id126_loitering.jpg,LOITERING ALERT: ID #126 stationary for 12.1s in VIP Lobby
+2026-09-23 11:42:53,INTRUSION,Restricted Perimeter,zone_restricted,80,3.8,0.527,X:\security\database/snapshots\snap_1790178173_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:42:55,INTRUSION,Restricted Perimeter,zone_restricted,123,8.4,0.428,X:\security\database/snapshots\snap_1790178175_id123_intrusion.jpg,INTRUSION DETECTED: ID #123 entered Restricted Perimeter
+2026-09-23 11:42:57,INTRUSION,Restricted Perimeter,zone_restricted,136,1.1,0.726,X:\security\database/snapshots\snap_1790178177_id136_intrusion.jpg,INTRUSION DETECTED: ID #136 entered Restricted Perimeter
+2026-09-23 11:42:58,LOITERING,VIP Lobby,zone_lobby,118,4.1,0.867,X:\security\database/snapshots\snap_1790178178_id118_loitering.jpg,LOITERING ALERT: ID #118 stationary for 4.1s in VIP Lobby
+2026-09-23 11:42:59,INTRUSION,Restricted Perimeter,zone_restricted,80,9.9,0.513,X:\security\database/snapshots\snap_1790178179_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:43:00,LOITERING,VIP Lobby,zone_lobby,126,20.2,0.841,X:\security\database/snapshots\snap_1790178180_id126_loitering.jpg,LOITERING ALERT: ID #126 stationary for 20.2s in VIP Lobby
+2026-09-23 11:43:03,INTRUSION,Restricted Perimeter,zone_restricted,136,7.2,0.846,X:\security\database/snapshots\snap_1790178183_id136_intrusion.jpg,INTRUSION DETECTED: ID #136 entered Restricted Perimeter
+2026-09-23 11:43:05,INTRUSION,Restricted Perimeter,zone_restricted,80,16.0,0.655,X:\security\database/snapshots\snap_1790178185_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:43:06,LOITERING,VIP Lobby,zone_lobby,118,12.2,0.791,X:\security\database/snapshots\snap_1790178186_id118_loitering.jpg,LOITERING ALERT: ID #118 stationary for 12.2s in VIP Lobby
+2026-09-23 11:43:08,LOITERING,VIP Lobby,zone_lobby,126,28.2,0.865,X:\security\database/snapshots\snap_1790178188_id126_loitering.jpg,LOITERING ALERT: ID #126 stationary for 28.2s in VIP Lobby
+2026-09-23 11:43:09,INTRUSION,Restricted Perimeter,zone_restricted,136,13.3,0.845,X:\security\database/snapshots\snap_1790178189_id136_intrusion.jpg,INTRUSION DETECTED: ID #136 entered Restricted Perimeter
+2026-09-23 11:43:11,INTRUSION,Restricted Perimeter,zone_restricted,80,22.0,0.655,X:\security\database/snapshots\snap_1790178191_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:43:14,LOITERING,VIP Lobby,zone_lobby,118,20.3,0.79,X:\security\database/snapshots\snap_1790178194_id118_loitering.jpg,LOITERING ALERT: ID #118 stationary for 20.3s in VIP Lobby
+2026-09-23 11:43:15,INTRUSION,Restricted Perimeter,zone_restricted,136,19.4,0.846,X:\security\database/snapshots\snap_1790178195_id136_intrusion.jpg,INTRUSION DETECTED: ID #136 entered Restricted Perimeter
+2026-09-23 11:43:16,LOITERING,VIP Lobby,zone_lobby,126,36.3,0.865,X:\security\database/snapshots\snap_1790178196_id126_loitering.jpg,LOITERING ALERT: ID #126 stationary for 36.3s in VIP Lobby
+2026-09-23 11:43:17,INTRUSION,Restricted Perimeter,zone_restricted,80,28.1,0.655,X:\security\database/snapshots\snap_1790178197_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:43:24,INTRUSION,Restricted Perimeter,zone_restricted,80,34.6,0.655,X:\security\database/snapshots\snap_1790178204_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:43:24,LOITERING,VIP Lobby,zone_lobby,118,29.3,0.79,X:\security\database/snapshots\snap_1790178204_id118_loitering.jpg,LOITERING ALERT: ID #118 stationary for 29.3s in VIP Lobby
+2026-09-23 11:43:24,INTRUSION,Restricted Perimeter,zone_restricted,136,27.5,0.846,X:\security\database/snapshots\snap_1790178204_id136_intrusion.jpg,INTRUSION DETECTED: ID #136 entered Restricted Perimeter
+2026-09-23 11:43:24,LOITERING,VIP Lobby,zone_lobby,126,44.4,0.865,X:\security\database/snapshots\snap_1790178204_id126_loitering.jpg,LOITERING ALERT: ID #126 stationary for 44.4s in VIP Lobby
+2026-09-23 11:43:30,INTRUSION,Restricted Perimeter,zone_restricted,80,40.7,0.655,X:\security\database/snapshots\snap_1790178210_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:43:30,INTRUSION,Restricted Perimeter,zone_restricted,136,33.6,0.846,X:\security\database/snapshots\snap_1790178210_id136_intrusion.jpg,INTRUSION DETECTED: ID #136 entered Restricted Perimeter
+2026-09-23 11:43:32,LOITERING,VIP Lobby,zone_lobby,118,37.4,0.79,X:\security\database/snapshots\snap_1790178212_id118_loitering.jpg,LOITERING ALERT: ID #118 stationary for 37.4s in VIP Lobby
+2026-09-23 11:43:32,LOITERING,VIP Lobby,zone_lobby,126,52.5,0.865,X:\security\database/snapshots\snap_1790178212_id126_loitering.jpg,LOITERING ALERT: ID #126 stationary for 52.5s in VIP Lobby
+2026-09-23 11:43:36,INTRUSION,Restricted Perimeter,zone_restricted,80,46.7,0.655,X:\security\database/snapshots\snap_1790178216_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:43:36,INTRUSION,Restricted Perimeter,zone_restricted,136,39.6,0.846,X:\security\database/snapshots\snap_1790178216_id136_intrusion.jpg,INTRUSION DETECTED: ID #136 entered Restricted Perimeter
+2026-09-23 11:43:39,INTRUSION,Restricted Perimeter,zone_restricted,144,0.0,0.585,X:\security\database/snapshots\snap_1790178219_id144_intrusion.jpg,INTRUSION DETECTED: ID #144 entered Restricted Perimeter
+2026-09-23 11:43:40,LOITERING,VIP Lobby,zone_lobby,118,45.4,0.789,X:\security\database/snapshots\snap_1790178220_id118_loitering.jpg,LOITERING ALERT: ID #118 stationary for 45.4s in VIP Lobby
+2026-09-23 11:43:40,LOITERING,VIP Lobby,zone_lobby,126,60.5,0.865,X:\security\database/snapshots\snap_1790178220_id126_loitering.jpg,LOITERING ALERT: ID #126 stationary for 60.5s in VIP Lobby
+2026-09-23 11:43:42,INTRUSION,Restricted Perimeter,zone_restricted,80,52.9,0.654,X:\security\database/snapshots\snap_1790178222_id80_intrusion.jpg,INTRUSION DETECTED: ID #80 entered Restricted Perimeter
+2026-09-23 11:43:43,LOITERING,VIP Lobby,zone_lobby,143,4.1,0.81,X:\security\database/snapshots\snap_1790178223_id143_loitering.jpg,LOITERING ALERT: ID #143 stationary for 4.1s in VIP Lobby
+2026-09-23 11:43:45,INTRUSION,Restricted Perimeter,zone_restricted,144,6.1,0.592,X:\security\database/snapshots\snap_1790178225_id144_intrusion.jpg,INTRUSION DETECTED: ID #144 entered Restricted Perimeter
+2026-09-23 11:43:51,LOITERING,VIP Lobby,zone_lobby,143,12.1,0.743,X:\security\database/snapshots\snap_1790178231_id143_loitering.jpg,LOITERING ALERT: ID #143 stationary for 12.1s in VIP Lobby
+2026-09-23 11:43:51,INTRUSION,Restricted Perimeter,zone_restricted,144,12.3,0.778,X:\security\database/snapshots\snap_1790178231_id144_intrusion.jpg,INTRUSION DETECTED: ID #144 entered Restricted Perimeter
+2026-09-23 11:43:57,LOITERING,VIP Lobby,zone_lobby,146,4.0,0.581,X:\security\database/snapshots\snap_1790178237_id146_loitering.jpg,LOITERING ALERT: ID #146 stationary for 4.0s in VIP Lobby
+2026-09-23 11:43:57,INTRUSION,Restricted Perimeter,zone_restricted,144,18.5,0.479,X:\security\database/snapshots\snap_1790178237_id144_intrusion.jpg,INTRUSION DETECTED: ID #144 entered Restricted Perimeter
+2026-09-23 11:43:59,LOITERING,VIP Lobby,zone_lobby,143,20.2,0.896,X:\security\database/snapshots\snap_1790178239_id143_loitering.jpg,LOITERING ALERT: ID #143 stationary for 20.2s in VIP Lobby
+2026-09-23 11:44:03,INTRUSION,Restricted Perimeter,zone_restricted,157,0.0,0.684,X:\security\database/snapshots\snap_1790178243_id157_intrusion.jpg,INTRUSION DETECTED: ID #157 entered Restricted Perimeter
+2026-09-23 11:44:04,INTRUSION,Restricted Perimeter,zone_restricted,144,24.5,0.471,X:\security\database/snapshots\snap_1790178244_id144_intrusion.jpg,INTRUSION DETECTED: ID #144 entered Restricted Perimeter
+2026-09-23 11:44:05,LOITERING,VIP Lobby,zone_lobby,146,12.1,0.442,X:\security\database/snapshots\snap_1790178245_id146_loitering.jpg,LOITERING ALERT: ID #146 stationary for 12.1s in VIP Lobby
+2026-09-23 11:44:07,INTRUSION,Restricted Perimeter,zone_restricted,136,0.0,0.697,X:\security\database/snapshots\snap_1790178247_id136_intrusion.jpg,INTRUSION DETECTED: ID #136 entered Restricted Perimeter
+2026-09-23 11:44:07,LOITERING,VIP Lobby,zone_lobby,143,28.2,0.776,X:\security\database/snapshots\snap_1790178247_id143_loitering.jpg,LOITERING ALERT: ID #143 stationary for 28.2s in VIP Lobby
+2026-09-23 11:44:08,LOITERING,VIP Lobby,zone_lobby,145,4.1,0.453,X:\security\database/snapshots\snap_1790178248_id145_loitering.jpg,LOITERING ALERT: ID #145 stationary for 4.1s in VIP Lobby
+2026-09-23 11:44:09,INTRUSION,Restricted Perimeter,zone_restricted,157,3.5,0.421,X:\security\database/snapshots\snap_1790178249_id157_intrusion.jpg,INTRUSION DETECTED: ID #157 entered Restricted Perimeter
+2026-09-23 11:44:10,INTRUSION,Restricted Perimeter,zone_restricted,144,30.7,0.45,X:\security\database/snapshots\snap_1790178250_id144_intrusion.jpg,INTRUSION DETECTED: ID #144 entered Restricted Perimeter
+2026-09-23 11:44:10,LOITERING,VIP Lobby,zone_lobby,160,4.1,0.45,X:\security\database/snapshots\snap_1790178250_id160_loitering.jpg,LOITERING ALERT: ID #160 stationary for 4.1s in VIP Lobby
+2026-09-23 11:44:13,LOITERING,VIP Lobby,zone_lobby,163,4.0,0.609,X:\security\database/snapshots\snap_1790178253_id163_loitering.jpg,LOITERING ALERT: ID #163 stationary for 4.0s in VIP Lobby
+2026-09-23 11:44:13,INTRUSION,Restricted Perimeter,zone_restricted,136,0.0,0.749,X:\security\database/snapshots\snap_1790178253_id136_intrusion.jpg,INTRUSION DETECTED: ID #136 entered Restricted Perimeter
+2026-09-23 11:44:13,LOITERING,VIP Lobby,zone_lobby,146,20.2,0.678,X:\security\database/snapshots\snap_1790178253_id146_loitering.jpg,LOITERING ALERT: ID #146 stationary for 20.2s in VIP Lobby
+2026-09-23 11:44:15,LOITERING,VIP Lobby,zone_lobby,162,4.0,0.839,X:\security\database/snapshots\snap_1790178255_id162_loitering.jpg,LOITERING ALERT: ID #162 stationary for 4.0s in VIP Lobby
+2026-09-23 11:44:15,LOITERING,VIP Lobby,zone_lobby,143,36.5,0.87,X:\security\database/snapshots\snap_1790178255_id143_loitering.jpg,LOITERING ALERT: ID #143 stationary for 36.5s in VIP Lobby
+2026-09-23 11:44:16,INTRUSION,Restricted Perimeter,zone_restricted,144,36.9,0.681,X:\security\database/snapshots\snap_1790178256_id144_intrusion.jpg,INTRUSION DETECTED: ID #144 entered Restricted Perimeter
+2026-09-23 11:44:20,INTRUSION,Restricted Perimeter,zone_restricted,136,0.0,0.543,X:\security\database/snapshots\snap_1790178260_id136_intrusion.jpg,INTRUSION DETECTED: ID #136 entered Restricted Perimeter
+2026-09-23 11:44:22,INTRUSION,Restricted Perimeter,zone_restricted,144,43.0,0.485,X:\security\database/snapshots\snap_1790178262_id144_intrusion.jpg,INTRUSION DETECTED: ID #144 entered Restricted Perimeter
+2026-09-23 11:44:23,LOITERING,VIP Lobby,zone_lobby,162,12.1,0.79,X:\security\database/snapshots\snap_1790178263_id162_loitering.jpg,LOITERING ALERT: ID #162 stationary for 12.1s in VIP Lobby
+2026-09-23 11:44:23,LOITERING,VIP Lobby,zone_lobby,169,4.1,0.554,X:\security\database/snapshots\snap_1790178263_id169_loitering.jpg,LOITERING ALERT: ID #169 stationary for 4.1s in VIP Lobby
+2026-09-23 11:44:24,LOITERING,VIP Lobby,zone_lobby,143,44.6,0.786,X:\security\database/snapshots\snap_1790178264_id143_loitering.jpg,LOITERING ALERT: ID #143 stationary for 44.6s in VIP Lobby
+2026-09-23 11:44:26,INTRUSION,Restricted Perimeter,zone_restricted,136,6.0,0.67,X:\security\database/snapshots\snap_1790178266_id136_intrusion.jpg,INTRUSION DETECTED: ID #136 entered Restricted Perimeter
+2026-09-23 11:44:28,INTRUSION,Restricted Perimeter,zone_restricted,144,49.1,0.431,X:\security\database/snapshots\snap_1790178268_id144_intrusion.jpg,INTRUSION DETECTED: ID #144 entered Restricted Perimeter
+2026-09-23 11:44:28,INTRUSION,Restricted Perimeter,zone_restricted,175,0.0,0.472,X:\security\database/snapshots\snap_1790178268_id175_intrusion.jpg,INTRUSION DETECTED: ID #175 entered Restricted Perimeter
+2026-09-23 11:44:31,LOITERING,VIP Lobby,zone_lobby,162,20.2,0.613,X:\security\database/snapshots\snap_1790178271_id162_loitering.jpg,LOITERING ALERT: ID #162 stationary for 20.2s in VIP Lobby
+2026-09-23 11:44:31,LOITERING,VIP Lobby,zone_lobby,169,7.2,0.82,X:\security\database/snapshots\snap_1790178271_id169_loitering.jpg,LOITERING ALERT: ID #169 stationary for 7.2s in VIP Lobby
+2026-09-23 11:44:32,LOITERING,VIP Lobby,zone_lobby,143,52.7,0.419,X:\security\database/snapshots\snap_1790178272_id143_loitering.jpg,LOITERING ALERT: ID #143 stationary for 52.7s in VIP Lobby
+2026-09-23 11:44:32,LOITERING,VIP Lobby,zone_lobby,174,4.1,0.421,X:\security\database/snapshots\snap_1790178272_id174_loitering.jpg,LOITERING ALERT: ID #174 stationary for 4.1s in VIP Lobby
+2026-09-23 11:44:32,INTRUSION,Restricted Perimeter,zone_restricted,136,12.2,0.609,X:\security\database/snapshots\snap_1790178272_id136_intrusion.jpg,INTRUSION DETECTED: ID #136 entered Restricted Perimeter
+2026-09-23 11:44:34,INTRUSION,Restricted Perimeter,zone_restricted,144,55.2,0.59,X:\security\database/snapshots\snap_1790178274_id144_intrusion.jpg,INTRUSION DETECTED: ID #144 entered Restricted Perimeter
+2026-09-23 11:44:34,INTRUSION,Restricted Perimeter,zone_restricted,175,6.1,0.405,X:\security\database/snapshots\snap_1790178274_id175_intrusion.jpg,INTRUSION DETECTED: ID #175 entered Restricted Perimeter
+2026-09-23 11:44:37,INTRUSION,Restricted Perimeter,zone_restricted,184,0.0,0.62,X:\security\database/snapshots\snap_1790178277_id184_intrusion.jpg,INTRUSION DETECTED: ID #184 entered Restricted Perimeter
+2026-09-23 11:44:37,INTRUSION,Restricted Perimeter,zone_restricted,185,0.0,0.769,X:\security\database/snapshots\snap_1790178277_id185_intrusion.jpg,INTRUSION DETECTED: ID #185 entered Restricted Perimeter
+2026-09-23 11:44:39,INTRUSION,Restricted Perimeter,zone_restricted,136,0.0,0.555,X:\security\database/snapshots\snap_1790178279_id136_intrusion.jpg,INTRUSION DETECTED: ID #136 entered Restricted Perimeter
+2026-09-23 11:44:39,LOITERING,VIP Lobby,zone_lobby,154,4.0,0.867,X:\security\database/snapshots\snap_1790178279_id154_loitering.jpg,LOITERING ALERT: ID #154 stationary for 4.0s in VIP Lobby
+2026-09-23 11:44:40,INTRUSION,Restricted Perimeter,zone_restricted,144,61.3,0.739,X:\security\database/snapshots\snap_1790178280_id144_intrusion.jpg,INTRUSION DETECTED: ID #144 entered Restricted Perimeter
+2026-09-23 11:44:41,INTRUSION,Restricted Perimeter,zone_restricted,187,0.0,0.432,X:\security\database/snapshots\snap_1790178281_id187_intrusion.jpg,INTRUSION DETECTED: ID #187 entered Restricted Perimeter
+2026-09-23 11:44:42,LOITERING,VIP Lobby,zone_lobby,150,4.1,0.637,X:\security\database/snapshots\snap_1790178282_id150_loitering.jpg,LOITERING ALERT: ID #150 stationary for 4.1s in VIP Lobby
+2026-09-23 11:44:42,LOITERING,VIP Lobby,zone_lobby,174,4.1,0.62,X:\security\database/snapshots\snap_1790178282_id174_loitering.jpg,LOITERING ALERT: ID #174 stationary for 4.1s in VIP Lobby
+2026-09-23 11:44:47,INTRUSION,Restricted Perimeter,zone_restricted,189,0.0,0.483,X:\security\database/snapshots\snap_1790178287_id189_intrusion.jpg,INTRUSION DETECTED: ID #189 entered Restricted Perimeter
+2026-09-23 11:44:47,LOITERING,VIP Lobby,zone_lobby,154,12.1,0.757,X:\security\database/snapshots\snap_1790178287_id154_loitering.jpg,LOITERING ALERT: ID #154 stationary for 12.1s in VIP Lobby
+2026-09-23 11:44:47,INTRUSION,Restricted Perimeter,zone_restricted,187,6.1,0.435,X:\security\database/snapshots\snap_1790178287_id187_intrusion.jpg,INTRUSION DETECTED: ID #187 entered Restricted Perimeter
+2026-09-23 11:44:50,LOITERING,VIP Lobby,zone_lobby,150,12.1,0.598,X:\security\database/snapshots\snap_1790178290_id150_loitering.jpg,LOITERING ALERT: ID #150 stationary for 12.1s in VIP Lobby
+2026-09-23 11:44:53,INTRUSION,Restricted Perimeter,zone_restricted,185,0.0,0.89,X:\security\database/snapshots\snap_1790178293_id185_intrusion.jpg,INTRUSION DETECTED: ID #185 entered Restricted Perimeter
+2026-09-23 11:44:53,INTRUSION,Restricted Perimeter,zone_restricted,189,2.6,0.414,X:\security\database/snapshots\snap_1790178293_id189_intrusion.jpg,INTRUSION DETECTED: ID #189 entered Restricted Perimeter
+2026-09-23 11:44:53,INTRUSION,Restricted Perimeter,zone_restricted,187,12.2,0.493,X:\security\database/snapshots\snap_1790178293_id187_intrusion.jpg,INTRUSION DETECTED: ID #187 entered Restricted Perimeter
+2026-09-23 11:44:55,LOITERING,VIP Lobby,zone_lobby,154,20.2,0.709,X:\security\database/snapshots\snap_1790178295_id154_loitering.jpg,LOITERING ALERT: ID #154 stationary for 20.2s in VIP Lobby
+2026-09-23 11:44:59,INTRUSION,Restricted Perimeter,zone_restricted,185,6.1,0.793,X:\security\database/snapshots\snap_1790178299_id185_intrusion.jpg,INTRUSION DETECTED: ID #185 entered Restricted Perimeter
+2026-09-23 11:44:59,INTRUSION,Restricted Perimeter,zone_restricted,189,8.8,0.572,X:\security\database/snapshots\snap_1790178299_id189_intrusion.jpg,INTRUSION DETECTED: ID #189 entered Restricted Perimeter
+2026-09-23 11:44:59,INTRUSION,Restricted Perimeter,zone_restricted,187,2.6,0.776,X:\security\database/snapshots\snap_1790178299_id187_intrusion.jpg,INTRUSION DETECTED: ID #187 entered Restricted Perimeter
+2026-09-23 11:45:03,LOITERING,VIP Lobby,zone_lobby,154,28.3,0.647,X:\security\database/snapshots\snap_1790178303_id154_loitering.jpg,LOITERING ALERT: ID #154 stationary for 28.3s in VIP Lobby
+2026-09-23 11:45:05,INTRUSION,Restricted Perimeter,zone_restricted,189,14.8,0.586,X:\security\database/snapshots\snap_1790178305_id189_intrusion.jpg,INTRUSION DETECTED: ID #189 entered Restricted Perimeter
+2026-09-23 11:45:05,INTRUSION,Restricted Perimeter,zone_restricted,187,8.7,0.784,X:\security\database/snapshots\snap_1790178305_id187_intrusion.jpg,INTRUSION DETECTED: ID #187 entered Restricted Perimeter
+2026-09-23 11:45:09,LOITERING,VIP Lobby,zone_lobby,192,4.0,0.636,X:\security\database/snapshots\snap_1790178309_id192_loitering.jpg,LOITERING ALERT: ID #192 stationary for 4.0s in VIP Lobby
+2026-09-23 11:45:11,INTRUSION,Restricted Perimeter,zone_restricted,189,20.8,0.506,X:\security\database/snapshots\snap_1790178311_id189_intrusion.jpg,INTRUSION DETECTED: ID #189 entered Restricted Perimeter
+2026-09-23 11:45:12,INTRUSION,Restricted Perimeter,zone_restricted,187,14.8,0.741,X:\security\database/snapshots\snap_1790178312_id187_intrusion.jpg,INTRUSION DETECTED: ID #187 entered Restricted Perimeter
+2026-09-23 11:45:16,INTRUSION,Restricted Perimeter,zone_restricted,193,0.0,0.763,X:\security\database/snapshots\snap_1790178316_id193_intrusion.jpg,INTRUSION DETECTED: ID #193 entered Restricted Perimeter
+2026-09-23 11:45:17,INTRUSION,Restricted Perimeter,zone_restricted,189,26.9,0.435,X:\security\database/snapshots\snap_1790178317_id189_intrusion.jpg,INTRUSION DETECTED: ID #189 entered Restricted Perimeter
+2026-09-23 11:45:18,INTRUSION,Restricted Perimeter,zone_restricted,187,20.8,0.675,X:\security\database/snapshots\snap_1790178318_id187_intrusion.jpg,INTRUSION DETECTED: ID #187 entered Restricted Perimeter
+2026-09-23 11:45:18,LOITERING,VIP Lobby,zone_lobby,192,12.2,0.68,X:\security\database/snapshots\snap_1790178318_id192_loitering.jpg,LOITERING ALERT: ID #192 stationary for 12.2s in VIP Lobby
+2026-09-23 11:45:22,LOITERING,VIP Lobby,zone_lobby,154,4.2,0.673,X:\security\database/snapshots\snap_1790178322_id154_loitering.jpg,LOITERING ALERT: ID #154 stationary for 4.2s in VIP Lobby
+2026-09-23 11:45:23,INTRUSION,Restricted Perimeter,zone_restricted,189,33.0,0.429,X:\security\database/snapshots\snap_1790178323_id189_intrusion.jpg,INTRUSION DETECTED: ID #189 entered Restricted Perimeter
+2026-09-23 11:45:24,INTRUSION,Restricted Perimeter,zone_restricted,187,26.9,0.686,X:\security\database/snapshots\snap_1790178324_id187_intrusion.jpg,INTRUSION DETECTED: ID #187 entered Restricted Perimeter
+2026-09-23 11:45:24,INTRUSION,Restricted Perimeter,zone_restricted,198,0.0,0.406,X:\security\database/snapshots\snap_1790178324_id198_intrusion.jpg,INTRUSION DETECTED: ID #198 entered Restricted Perimeter
+2026-09-23 11:45:26,LOITERING,VIP Lobby,zone_lobby,192,20.3,0.635,X:\security\database/snapshots\snap_1790178326_id192_loitering.jpg,LOITERING ALERT: ID #192 stationary for 20.3s in VIP Lobby
+2026-09-23 11:45:28,INTRUSION,Restricted Perimeter,zone_restricted,193,0.0,0.699,X:\security\database/snapshots\snap_1790178328_id193_intrusion.jpg,INTRUSION DETECTED: ID #193 entered Restricted Perimeter
+2026-09-23 11:45:29,INTRUSION,Restricted Perimeter,zone_restricted,203,0.0,0.444,X:\security\database/snapshots\snap_1790178329_id203_intrusion.jpg,INTRUSION DETECTED: ID #203 entered Restricted Perimeter
+2026-09-23 11:45:29,INTRUSION,Restricted Perimeter,zone_restricted,189,39.0,0.714,X:\security\database/snapshots\snap_1790178329_id189_intrusion.jpg,INTRUSION DETECTED: ID #189 entered Restricted Perimeter
+2026-09-23 11:45:31,INTRUSION,Restricted Perimeter,zone_restricted,198,0.0,0.404,X:\security\database/snapshots\snap_1790178331_id198_intrusion.jpg,INTRUSION DETECTED: ID #198 entered Restricted Perimeter
+2026-09-23 11:45:33,INTRUSION,Restricted Perimeter,zone_restricted,171,0.0,0.461,X:\security\database/snapshots\snap_1790178333_id171_intrusion.jpg,INTRUSION DETECTED: ID #171 entered Restricted Perimeter
+2026-09-23 11:45:34,LOITERING,VIP Lobby,zone_lobby,192,28.4,0.502,X:\security\database/snapshots\snap_1790178334_id192_loitering.jpg,LOITERING ALERT: ID #192 stationary for 28.4s in VIP Lobby
+2026-09-23 11:45:34,INTRUSION,Restricted Perimeter,zone_restricted,193,6.0,0.761,X:\security\database/snapshots\snap_1790178334_id193_intrusion.jpg,INTRUSION DETECTED: ID #193 entered Restricted Perimeter
+2026-09-23 11:45:35,INTRUSION,Restricted Perimeter,zone_restricted,189,45.1,0.506,X:\security\database/snapshots\snap_1790178335_id189_intrusion.jpg,INTRUSION DETECTED: ID #189 entered Restricted Perimeter
+2026-09-23 11:45:37,INTRUSION,Restricted Perimeter,zone_restricted,198,2.6,0.457,X:\security\database/snapshots\snap_1790178337_id198_intrusion.jpg,INTRUSION DETECTED: ID #198 entered Restricted Perimeter
+2026-09-23 11:45:39,INTRUSION,Restricted Perimeter,zone_restricted,199,0.0,0.576,X:\security\database/snapshots\snap_1790178339_id199_intrusion.jpg,INTRUSION DETECTED: ID #199 entered Restricted Perimeter
+2026-09-23 11:45:39,INTRUSION,Restricted Perimeter,zone_restricted,171,5.0,0.402,X:\security\database/snapshots\snap_1790178339_id171_intrusion.jpg,INTRUSION DETECTED: ID #171 entered Restricted Perimeter
+2026-09-23 11:45:40,INTRUSION,Restricted Perimeter,zone_restricted,193,12.2,0.468,X:\security\database/snapshots\snap_1790178340_id193_intrusion.jpg,INTRUSION DETECTED: ID #193 entered Restricted Perimeter
+2026-09-23 11:45:42,INTRUSION,Restricted Perimeter,zone_restricted,189,0.0,0.454,X:\security\database/snapshots\snap_1790178342_id189_intrusion.jpg,INTRUSION DETECTED: ID #189 entered Restricted Perimeter
+2026-09-23 11:45:42,LOITERING,VIP Lobby,zone_lobby,192,36.5,0.703,X:\security\database/snapshots\snap_1790178342_id192_loitering.jpg,LOITERING ALERT: ID #192 stationary for 36.5s in VIP Lobby
+2026-09-23 11:45:43,INTRUSION,Restricted Perimeter,zone_restricted,198,8.8,0.45,X:\security\database/snapshots\snap_1790178343_id198_intrusion.jpg,INTRUSION DETECTED: ID #198 entered Restricted Perimeter
+2026-09-23 11:45:44,INTRUSION,Restricted Perimeter,zone_restricted,212,0.0,0.598,X:\security\database/snapshots\snap_1790178344_id212_intrusion.jpg,INTRUSION DETECTED: ID #212 entered Restricted Perimeter
+2026-09-23 11:45:45,INTRUSION,Restricted Perimeter,zone_restricted,199,6.1,0.422,X:\security\database/snapshots\snap_1790178345_id199_intrusion.jpg,INTRUSION DETECTED: ID #199 entered Restricted Perimeter
+2026-09-23 11:45:46,INTRUSION,Restricted Perimeter,zone_restricted,214,0.0,0.413,X:\security\database/snapshots\snap_1790178346_id214_intrusion.jpg,INTRUSION DETECTED: ID #214 entered Restricted Perimeter
+2026-09-23 11:45:46,INTRUSION,Restricted Perimeter,zone_restricted,193,1.0,0.778,X:\security\database/snapshots\snap_1790178346_id193_intrusion.jpg,INTRUSION DETECTED: ID #193 entered Restricted Perimeter
+2026-09-23 11:45:48,INTRUSION,Restricted Perimeter,zone_restricted,189,2.8,0.753,X:\security\database/snapshots\snap_1790178348_id189_intrusion.jpg,INTRUSION DETECTED: ID #189 entered Restricted Perimeter
+2026-09-23 11:45:49,INTRUSION,Restricted Perimeter,zone_restricted,217,0.0,0.732,X:\security\database/snapshots\snap_1790178349_id217_intrusion.jpg,INTRUSION DETECTED: ID #217 entered Restricted Perimeter
+2026-09-23 11:45:49,LOITERING,VIP Lobby,zone_lobby,154,4.1,0.442,X:\security\database/snapshots\snap_1790178349_id154_loitering.jpg,LOITERING ALERT: ID #154 stationary for 4.1s in VIP Lobby
+2026-09-23 11:45:50,INTRUSION,Restricted Perimeter,zone_restricted,198,0.0,0.615,X:\security\database/snapshots\snap_1790178350_id198_intrusion.jpg,INTRUSION DETECTED: ID #198 entered Restricted Perimeter
+2026-09-23 11:45:50,LOITERING,VIP Lobby,zone_lobby,192,44.6,0.719,X:\security\database/snapshots\snap_1790178350_id192_loitering.jpg,LOITERING ALERT: ID #192 stationary for 44.6s in VIP Lobby
+2026-09-23 11:45:51,INTRUSION,Restricted Perimeter,zone_restricted,212,6.1,0.493,X:\security\database/snapshots\snap_1790178351_id212_intrusion.jpg,INTRUSION DETECTED: ID #212 entered Restricted Perimeter
+2026-09-23 11:45:52,INTRUSION,Restricted Perimeter,zone_restricted,214,6.0,0.588,X:\security\database/snapshots\snap_1790178352_id214_intrusion.jpg,INTRUSION DETECTED: ID #214 entered Restricted Perimeter
+2026-09-23 11:45:53,LOITERING,VIP Lobby,zone_lobby,216,4.0,0.848,X:\security\database/snapshots\snap_1790178353_id216_loitering.jpg,LOITERING ALERT: ID #216 stationary for 4.0s in VIP Lobby
+2026-09-23 11:45:54,INTRUSION,Restricted Perimeter,zone_restricted,189,8.9,0.823,X:\security\database/snapshots\snap_1790178354_id189_intrusion.jpg,INTRUSION DETECTED: ID #189 entered Restricted Perimeter
+2026-09-23 11:45:55,INTRUSION,Restricted Perimeter,zone_restricted,217,6.1,0.674,X:\security\database/snapshots\snap_1790178355_id217_intrusion.jpg,INTRUSION DETECTED: ID #217 entered Restricted Perimeter
+2026-09-23 11:45:55,INTRUSION,Restricted Perimeter,zone_restricted,221,0.0,0.448,X:\security\database/snapshots\snap_1790178355_id221_intrusion.jpg,INTRUSION DETECTED: ID #221 entered Restricted Perimeter
+2026-09-23 11:45:56,INTRUSION,Restricted Perimeter,zone_restricted,198,4.5,0.444,X:\security\database/snapshots\snap_1790178356_id198_intrusion.jpg,INTRUSION DETECTED: ID #198 entered Restricted Perimeter
+2026-09-23 11:45:58,LOITERING,VIP Lobby,zone_lobby,192,52.7,0.46,X:\security\database/snapshots\snap_1790178358_id192_loitering.jpg,LOITERING ALERT: ID #192 stationary for 52.7s in VIP Lobby
+2026-09-23 11:46:00,INTRUSION,Restricted Perimeter,zone_restricted,189,15.0,0.842,X:\security\database/snapshots\snap_1790178360_id189_intrusion.jpg,INTRUSION DETECTED: ID #189 entered Restricted Perimeter
+2026-09-23 11:46:01,INTRUSION,Restricted Perimeter,zone_restricted,217,12.2,0.473,X:\security\database/snapshots\snap_1790178361_id217_intrusion.jpg,INTRUSION DETECTED: ID #217 entered Restricted Perimeter
+2026-09-23 11:46:01,INTRUSION,Restricted Perimeter,zone_restricted,221,6.0,0.576,X:\security\database/snapshots\snap_1790178361_id221_intrusion.jpg,INTRUSION DETECTED: ID #221 entered Restricted Perimeter
+2026-09-23 11:46:02,INTRUSION,Restricted Perimeter,zone_restricted,198,10.6,0.424,X:\security\database/snapshots\snap_1790178362_id198_intrusion.jpg,INTRUSION DETECTED: ID #198 entered Restricted Perimeter
+2026-09-23 11:46:06,INTRUSION,Restricted Perimeter,zone_restricted,189,21.1,0.879,X:\security\database/snapshots\snap_1790178366_id189_intrusion.jpg,INTRUSION DETECTED: ID #189 entered Restricted Perimeter
+2026-09-23 11:46:06,LOITERING,VIP Lobby,zone_lobby,192,60.8,0.44,X:\security\database/snapshots\snap_1790178366_id192_loitering.jpg,LOITERING ALERT: ID #192 stationary for 60.8s in VIP Lobby
+2026-09-23 11:46:07,INTRUSION,Restricted Perimeter,zone_restricted,193,0.0,0.741,X:\security\database/snapshots\snap_1790178367_id193_intrusion.jpg,INTRUSION DETECTED: ID #193 entered Restricted Perimeter
+2026-09-23 11:46:07,INTRUSION,Restricted Perimeter,zone_restricted,217,18.3,0.476,X:\security\database/snapshots\snap_1790178367_id217_intrusion.jpg,INTRUSION DETECTED: ID #217 entered Restricted Perimeter
+2026-09-23 11:46:07,INTRUSION,Restricted Perimeter,zone_restricted,221,12.2,0.425,X:\security\database/snapshots\snap_1790178367_id221_intrusion.jpg,INTRUSION DETECTED: ID #221 entered Restricted Perimeter
+2026-09-23 11:46:09,INTRUSION,Restricted Perimeter,zone_restricted,229,0.0,0.725,X:\security\database/snapshots\snap_1790178369_id229_intrusion.jpg,INTRUSION DETECTED: ID #229 entered Restricted Perimeter
+2026-09-23 11:46:09,INTRUSION,Restricted Perimeter,zone_restricted,228,0.0,0.597,X:\security\database/snapshots\snap_1790178369_id228_intrusion.jpg,INTRUSION DETECTED: ID #228 entered Restricted Perimeter
+2026-09-23 11:46:11,INTRUSION,Restricted Perimeter,zone_restricted,223,0.0,0.784,X:\security\database/snapshots\snap_1790178371_id223_intrusion.jpg,INTRUSION DETECTED: ID #223 entered Restricted Perimeter
+2026-09-23 11:46:12,INTRUSION,Restricted Perimeter,zone_restricted,230,0.0,0.496,X:\security\database/snapshots\snap_1790178372_id230_intrusion.jpg,INTRUSION DETECTED: ID #230 entered Restricted Perimeter
+2026-09-23 11:46:13,INTRUSION,Restricted Perimeter,zone_restricted,193,6.0,0.702,X:\security\database/snapshots\snap_1790178373_id193_intrusion.jpg,INTRUSION DETECTED: ID #193 entered Restricted Perimeter
+2026-09-23 11:46:13,INTRUSION,Restricted Perimeter,zone_restricted,217,4.7,0.552,X:\security\database/snapshots\snap_1790178373_id217_intrusion.jpg,INTRUSION DETECTED: ID #217 entered Restricted Perimeter
+2026-09-23 11:46:13,INTRUSION,Restricted Perimeter,zone_restricted,221,18.3,0.467,X:\security\database/snapshots\snap_1790178373_id221_intrusion.jpg,INTRUSION DETECTED: ID #221 entered Restricted Perimeter
+2026-09-23 11:46:15,INTRUSION,Restricted Perimeter,zone_restricted,229,6.1,0.693,X:\security\database/snapshots\snap_1790178375_id229_intrusion.jpg,INTRUSION DETECTED: ID #229 entered Restricted Perimeter
+2026-09-23 11:46:19,INTRUSION,Restricted Perimeter,zone_restricted,221,24.3,0.418,X:\security\database/snapshots\snap_1790178379_id221_intrusion.jpg,INTRUSION DETECTED: ID #221 entered Restricted Perimeter
+2026-09-23 11:46:21,INTRUSION,Restricted Perimeter,zone_restricted,229,12.3,0.769,X:\security\database/snapshots\snap_1790178381_id229_intrusion.jpg,INTRUSION DETECTED: ID #229 entered Restricted Perimeter
+2026-09-23 11:46:22,INTRUSION,Restricted Perimeter,zone_restricted,228,0.0,0.788,X:\security\database/snapshots\snap_1790178382_id228_intrusion.jpg,INTRUSION DETECTED: ID #228 entered Restricted Perimeter
+2026-09-23 11:46:22,LOITERING,VIP Lobby,zone_lobby,231,4.2,0.431,X:\security\database/snapshots\snap_1790178382_id231_loitering.jpg,LOITERING ALERT: ID #231 stationary for 4.2s in VIP Lobby
+2026-09-23 11:46:22,LOITERING,VIP Lobby,zone_lobby,235,4.1,0.651,X:\security\database/snapshots\snap_1790178382_id235_loitering.jpg,LOITERING ALERT: ID #235 stationary for 4.1s in VIP Lobby
+2026-09-23 11:46:24,LOITERING,VIP Lobby,zone_lobby,236,4.1,0.618,X:\security\database/snapshots\snap_1790178384_id236_loitering.jpg,LOITERING ALERT: ID #236 stationary for 4.1s in VIP Lobby
+2026-09-23 11:46:25,INTRUSION,Restricted Perimeter,zone_restricted,221,30.4,0.441,X:\security\database/snapshots\snap_1790178385_id221_intrusion.jpg,INTRUSION DETECTED: ID #221 entered Restricted Perimeter
+2026-09-23 11:46:27,INTRUSION,Restricted Perimeter,zone_restricted,229,18.3,0.776,X:\security\database/snapshots\snap_1790178387_id229_intrusion.jpg,INTRUSION DETECTED: ID #229 entered Restricted Perimeter
+2026-09-23 11:46:28,INTRUSION,Restricted Perimeter,zone_restricted,228,6.0,0.794,X:\security\database/snapshots\snap_1790178388_id228_intrusion.jpg,INTRUSION DETECTED: ID #228 entered Restricted Perimeter
+2026-09-23 11:46:29,INTRUSION,Restricted Perimeter,zone_restricted,239,0.0,0.519,X:\security\database/snapshots\snap_1790178389_id239_intrusion.jpg,INTRUSION DETECTED: ID #239 entered Restricted Perimeter
+2026-09-23 11:46:30,LOITERING,VIP Lobby,zone_lobby,231,12.3,0.493,X:\security\database/snapshots\snap_1790178390_id231_loitering.jpg,LOITERING ALERT: ID #231 stationary for 12.3s in VIP Lobby
+2026-09-23 11:46:32,INTRUSION,Restricted Perimeter,zone_restricted,221,36.7,0.526,X:\security\database/snapshots\snap_1790178392_id221_intrusion.jpg,INTRUSION DETECTED: ID #221 entered Restricted Perimeter
+2026-09-23 11:46:33,INTRUSION,Restricted Perimeter,zone_restricted,229,24.6,0.646,X:\security\database/snapshots\snap_1790178393_id229_intrusion.jpg,INTRUSION DETECTED: ID #229 entered Restricted Perimeter
+2026-09-23 11:46:34,INTRUSION,Restricted Perimeter,zone_restricted,228,12.0,0.552,X:\security\database/snapshots\snap_1790178394_id228_intrusion.jpg,INTRUSION DETECTED: ID #228 entered Restricted Perimeter
+2026-09-23 11:46:35,INTRUSION,Restricted Perimeter,zone_restricted,239,6.1,0.443,X:\security\database/snapshots\snap_1790178395_id239_intrusion.jpg,INTRUSION DETECTED: ID #239 entered Restricted Perimeter
+2026-09-23 11:46:38,INTRUSION,Restricted Perimeter,zone_restricted,189,0.0,0.817,X:\security\database/snapshots\snap_1790178398_id189_intrusion.jpg,INTRUSION DETECTED: ID #189 entered Restricted Perimeter
+2026-09-23 11:46:38,INTRUSION,Restricted Perimeter,zone_restricted,221,42.8,0.559,X:\security\database/snapshots\snap_1790178398_id221_intrusion.jpg,INTRUSION DETECTED: ID #221 entered Restricted Perimeter
+2026-09-23 11:46:38,LOITERING,VIP Lobby,zone_lobby,231,20.4,0.603,X:\security\database/snapshots\snap_1790178398_id231_loitering.jpg,LOITERING ALERT: ID #231 stationary for 20.4s in VIP Lobby
+2026-09-23 11:46:39,INTRUSION,Restricted Perimeter,zone_restricted,229,30.7,0.822,X:\security\database/snapshots\snap_1790178399_id229_intrusion.jpg,INTRUSION DETECTED: ID #229 entered Restricted Perimeter
+2026-09-23 11:46:42,INTRUSION,Restricted Perimeter,zone_restricted,243,0.0,0.402,X:\security\database/snapshots\snap_1790178402_id243_intrusion.jpg,INTRUSION DETECTED: ID #243 entered Restricted Perimeter
+2026-09-23 11:46:43,INTRUSION,Restricted Perimeter,zone_restricted,244,0.0,0.491,X:\security\database/snapshots\snap_1790178403_id244_intrusion.jpg,INTRUSION DETECTED: ID #244 entered Restricted Perimeter
+2026-09-23 11:46:44,INTRUSION,Restricted Perimeter,zone_restricted,221,49.0,0.418,X:\security\database/snapshots\snap_1790178404_id221_intrusion.jpg,INTRUSION DETECTED: ID #221 entered Restricted Perimeter
+2026-09-23 11:46:45,INTRUSION,Restricted Perimeter,zone_restricted,229,36.7,0.442,X:\security\database/snapshots\snap_1790178405_id229_intrusion.jpg,INTRUSION DETECTED: ID #229 entered Restricted Perimeter
+2026-09-23 11:46:46,LOITERING,VIP Lobby,zone_lobby,231,28.5,0.636,X:\security\database/snapshots\snap_1790178406_id231_loitering.jpg,LOITERING ALERT: ID #231 stationary for 28.5s in VIP Lobby
+2026-09-23 11:46:48,INTRUSION,Restricted Perimeter,zone_restricted,243,6.1,0.431,X:\security\database/snapshots\snap_1790178408_id243_intrusion.jpg,INTRUSION DETECTED: ID #243 entered Restricted Perimeter
+2026-09-23 11:46:48,INTRUSION,Restricted Perimeter,zone_restricted,228,0.0,0.682,X:\security\database/snapshots\snap_1790178408_id228_intrusion.jpg,INTRUSION DETECTED: ID #228 entered Restricted Perimeter
+2026-09-23 11:46:50,INTRUSION,Restricted Perimeter,zone_restricted,244,6.2,0.723,X:\security\database/snapshots\snap_1790178410_id244_intrusion.jpg,INTRUSION DETECTED: ID #244 entered Restricted Perimeter
+2026-09-23 11:46:50,INTRUSION,Restricted Perimeter,zone_restricted,221,55.1,0.631,X:\security\database/snapshots\snap_1790178410_id221_intrusion.jpg,INTRUSION DETECTED: ID #221 entered Restricted Perimeter

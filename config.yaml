@@ -1,0 +1,78 @@
+# ==============================================================================
+# Intelligent Security System Advanced - Central Configuration
+# ==============================================================================
+
+system:
+  name: "Intelligent Security System Advanced"
+  version: "2.5.0"
+  debug: false
+
+video:
+  source_type: "sample"            # Options: 'sample', 'webcam', 'file', 'rtsp'
+  sample_path: "assets/sample_video.mp4"
+  webcam_id: 0
+  rtsp_url: ""
+  frame_width: 1280
+  frame_height: 720
+  fps_limit: 30
+
+detector:
+  model_name: "yolov8n.pt"         # Ultralytics model or weights path
+  confidence_threshold: 0.40       # Detection confidence filter
+  iou_threshold: 0.45              # NMS IoU threshold
+  target_classes: [0]              # 0: Person class in standard COCO dataset
+  device: "cpu"                    # 'cpu' or '0' (CUDA)
+
+tracker:
+  tracker_type: "bytetrack.yaml"
+  max_age: 30                      # Max frames to keep dead tracks
+  min_hits: 3                      # Stable-state entry debounce
+  trajectory_len: 30               # Centroid history breadcrumb length
+
+zones:
+  - id: "zone_restricted"
+    name: "Restricted Perimeter"
+    type: "intrusion"              # 'intrusion' triggers immediate alert
+    color: [255, 51, 102]          # RGB: Neon Pink/Red
+    alert_message: "RESTRICTED AREA INTRUSION DETECTED"
+    polygon:                       # Normalized coords [x, y] in range [0.0, 1.0]
+      - [0.05, 0.45]
+      - [0.42, 0.45]
+      - [0.42, 0.92]
+      - [0.05, 0.92]
+    cooldown_sec: 6
+
+  - id: "zone_lobby"
+    name: "VIP Lobby"
+    type: "loitering"              # 'loitering' triggers after dwell limit
+    color: [255, 170, 0]           # RGB: Amber
+    alert_message: "PROLONGED LOITERING VIOLATION"
+    polygon:
+      - [0.58, 0.35]
+      - [0.95, 0.35]
+      - [0.95, 0.88]
+      - [0.58, 0.88]
+    loiter_limit_sec: 4.0          # Max allowed dwell time before violation
+    cooldown_sec: 8
+
+motion:
+  enabled: true
+  history: 500
+  var_threshold: 25
+  detect_shadows: true
+  min_contour_area: 800
+
+database:
+  path: "database/security.db"
+  csv_backup_path: "logs/security_events.csv"
+  snapshots_dir: "database/snapshots"
+
+notifications:
+  sound_alert: true
+  telegram:
+    enabled: false
+    bot_token: ""
+    chat_id: ""
+  webhook:
+    enabled: false
+    url: ""
